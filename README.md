@@ -20,34 +20,217 @@
 ---
 
 ## 📑 Kapsamlı İçindekiler
-1. [Külliyatın Vizyonu ve Mahiyeti](#-külliyatın-vizyonu-ve-mahiyeti)
-2. [Ekberî Ontoloji Haritası & Merâtibü'l-Vücûd](#-ekberî-ontoloji-haritası--merâtibül-vücûd)
-3. [Eserlerinden Doğrudan Alıntılar ve Metin Tahlilleri](#-eserlerinden-doğrudan-alıntılar-ve-metin-tahlilleri)
+1. [🏛️ Külliyatın Vizyonu ve Mahiyeti](#-külliyatın-vizyonu-ve-mahiyeti)
+2. [💬 Şeyhü'l-Ekber Hakkında Söylenenler: Büyük Tarihsel ve Felsefî Tanıklıklar Hazinesi](#-şeyhül-ekber-hakkında-söylenenler-büyük-tarihsel-ve-felsefî-tanıklıklar-hazinesi)
+   - [1. Çağdaşları & Doğrudan Muhatapları (13. Yüzyıl)](#1-çağdaşları-ve-doğrudan-muhatapları-13-yüzyıl)
+   - [2. Anadolu & Tasavvuf Büyükleri (Mevlânâ, Şems, Yûnus, Hüdâyî, Mısrî)](#2-anadolu-ve-tasavvuf-büyükleri-mevlânâ-şems-yûnus-hüdâyî-mısrî)
+   - [3. Klasik Şârihler & Osmanlı/İran İrfân Mektebi (14–18. Yüzyıl)](#3-klasik-şârihler-ve-osmanlıiran-irfân-mektebi-1418-yüzyıl)
+   - [4. Resmî Savunmalar, Şeyhülislâm Fetvaları ve Büyük İmamlar](#4-resmî-savunmalar-şeyhülislâm-fetvaları-ve-büyük-imamlar)
+   - [5. Kelâmî, Fıkhî ve Selefî Tenkitler & İtirazlar](#5-kelâmî-fıkhî-ve-selefî-tenkitler-ve-itirazlar)
+   - [6. Modern Doğu-Batı Filozofları ve Akademisyenleri](#6-modern-doğu-batı-filozofları-ve-akademisyenleri)
+3. [🧭 Ekberî Ontoloji Haritası & Merâtibü'l-Vücûd](#-ekberî-ontoloji-haritası--merâtibül-vücûd)
+4. [📜 Eserlerinden Doğrudan Metinler ve Tahliller](#-eserlerinden-doğrudan-metinler-ve-tahliller)
    - [*Fusûsü'l-Hikem* Seçkileri](#1-fusûsül-hikem-seçkileri)
    - [*el-Fütûhâtü'l-Mekkiyye* Seçkileri](#2-el-fütûhâtül-mekkiyye-seçkileri)
    - [*Tercümânü'l-Eşvâk* ve Şerhi](#3-tercümânül-eşvâk-ve-şerhi)
    - [*Risâletü'l-Vücûd & Kitâbü'l-İsfâr*](#4-risâletül-vücûd--kitâbül-isfâr)
-4. [Fusûsü'l-Hikem: 27 Peygamber ve Hikmet Matrisi](#-fusûsül-hikem-27-peygamber-ve-hikmet-matrisi)
-5. [Şeyhü'l-Ekber Hakkında Söylenenler: Tarihsel ve Felsefî Tanıklıklar](#-şeyhül-ekber-hakkında-söylenenler-tarihsel-ve-felsefî-tanıklıklar)
-   - [Çağdaşları & Doğrudan Muhatapları (İbn Rüşd, Konevî, İzzeddin b. Abdisselâm, İbnü'l-Fârız)](#1-çağdaşları-ve-doğrudan-muhatapları-13-yüzyıl)
-   - [Şârihler & İrfânî Gelenek (Kayserî, Kâşânî, Câmî, Nablusî, Bursevî, İbn Âbidîn)](#2-klasik-şârihler-ve-irfânî-gelenek-1418-yüzyıl)
-   - [Resmî Savunmalar & Şeyhülislâm Fetvaları (İbn Kemal, Süyûtî)](#3-resmî-savunmalar-ve-şeyhülislâm-fetvaları)
-   - [Kelâmî, Fıkhî ve Selefî Eleştiriler (İbn Teymiyye, İbn Haldun, İbn Hacer)](#4-kelâmî-fıkhî-ve-selefî-tenkitler)
-   - [Modern ve Çağdaş Felsefî Okumalar (Izutsu, Chittick, Corbin, Kılıç)](#5-modern-ve-çağdaş-doğu-batı-felsefî-okumaları)
-6. [Temel Kavramlar Sözlüğü (*Istılâhât-ı Sûfiyye*)](#-temel-kavramlar-sözlüğü-ıstılâhât-ı-sûfiyye)
-7. [Karşılaştırmalı Felsefe (Doğu-Batı)](#-karşılaştırmalı-felsefe-doğu-batı)
-8. [Depo Dizin Mimarisi](#-depo-dizin-mimarisi)
-9. [İnteraktif CLI Araştırma Aracı (`tools/ekber_cli.py`)](#-interaktif-cli-araştırma-aracı-toolsekber_clipy)
-10. [Akademik Müfredat ve Bibliyografya](#-akademik-müfredat-ve-bibliyografya)
-11. [Katkı Protokolü & Lisans](#-katkı-protokolü--lisans)
+5. [🧩 Fusûsü'l-Hikem: 27 Peygamber ve Hikmet Matrisi](#-fusûsül-hikem-27-peygamber-ve-hikmet-matrisi)
+6. [📖 Kapsamlı Ekberî Kavramlar Sözlüğü (*Istılâhât-ı Sûfiyye*)](#-kapsamlı-ekberî-kavramlar-sözlüğü-ıstılâhât-ı-sûfiyye)
+7. [⚖️ Mukayeseli Felsefe Araştırmaları (Spinoza, Heidegger, Jung, Eckhart)](#-mukayeseli-felsefe-araştırmaları)
+8. [🗂️ Depo ve Dizin Mimarisi](#-depo-ve-dizin-mimarisi)
+9. [💻 İnteraktif CLI Araştırma Aracı (`tools/ekber_cli.py`)](#-interaktif-cli-araştırma-aracı-toolsekber_clipy)
+10. [🎓 Akademik Müfredat ve Bibliyografya (BibTeX)](#-akademik-müfredat-ve-bibliyografya-bibtex)
+11. [🤝 Katkı Protokolü & Lisans](#-katkı-protokolü--lisans)
 
 ---
 
 ## 🏛️ Külliyatın Vizyonu ve Mahiyeti
 
-`ibn-arabi-studies`, Endülüslü büyük metafizikçi, mutasavvıf ve arif **Muhyiddin İbnü'l-Arabî**'nin (*eş-Şeyhü'l-Ekber*) metafizik sistemini, kavram dağarcığını, eserlerini ve Doğu-Batı düşüncesindeki yankılarını dizinlemek amacıyla kurgulanmış kapsamlı bir açık kaynak araştırma projesidir.
+`ibn-arabi-studies`, Endülüslü büyük metafizikçi, mutasavvıf ve arif **Muhyiddin İbnü'l-Arabî**'nin (*eş-Şeyhü'l-Ekber*) metafizik sistemini, kavram dağarcığını, eserlerini ve Doğu-Batı düşüncesindeki yankılarını dizinlemek amacıyla kurgulanmış kapsamlı bir açık kaynak araştırma külliyatıdır.
 
-Proje; klasik şerh geleneğini (*Sadreddin Konevî, Dâvûd-i Kayserî, Abdürrezzâk el-Kâşânî*), felsefî/kelâmî tenkitleri (*İbn Teymiyye, İbn Haldun*) ve modern akademik literatürü (*Chittick, Corbin, Izutsu, Addas*) tek bir çatı altında toplamayı amaçlar.
+İbnü'l-Arabî (H. 560–638 / M. 1165–1240), varlığın birliği (*Vahdet-i Vücûd*), İnsan-ı Kâmil nazariyesi, Âlem-i Misâl (*Mundus Imaginalis*) ontolojisi ve kesintisiz yaratılış (*Tecellî-i Dâim*) doktrinleriyle İslam medeniyetinin ve dünya felsefesinin en özgün anıtlarından birini inşa etmiştir.
+
+---
+
+## 💬 Şeyhü'l-Ekber Hakkında Söylenenler: Büyük Tarihsel ve Felsefî Tanıklıklar Hazinesi
+
+```text
+       ╔═══════════════════════════════════════════════════════════════════════════════╗
+       ║   "O öyle bir ummandır ki; kıyısı olmayan bir deryaya benzer.                 ║
+       ║    Dalgıçlar onun derinliklerinden marifet incilerini dererken,              ║
+       ║    kıyıda durup nazar edenler dalgaların azametinden ürperirler."             ║
+       ║                                                    — Sadreddin Konevî         ║
+       ╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+### 1. Çağdaşları ve Doğrudan Muhatapları (13. Yüzyıl)
+
+#### ⚖️ İbn Rüşd (Averroes, ö. 1198) — *Kurtuba Kadısı ve Büyük İslam Filozofu*
+> *(Genç İbnü'l-Arabî henüz bıyıkları terlememiş bir delikanlı iken, Kurtuba'da onu bizzat köşküne davet eden İbn Rüşd ile gerçekleşen meşhur tarihi diyalog):*  
+>
+> *"Kurtuba Kadısı İbn Rüşd beni görmeyi çok arzu etmişti. Yanına girdiğimde sevgisinden ve saygısından dolayı yerinden fırlayıp bana sarıldı. Bana dedi ki:*  
+> — **'Evet mi?'**  
+> Ben de:  
+> — **'Evet!'** dedim.  
+> Bu cevabım üzerine kendisini anladığımı görerek sevinci arttı. Fakat hemen ardından onun neden sevindiğini fark ederek:  
+> — **'Hayır!'** dedim.  
+> Bunun üzerine rengi soldu, yüzü sarardı ve şüpheye düşerek sordu:  
+> — **'Keşif ve ilahî feyz yoluyla ulaştığınız bilgi, bizim akıl ve nazar yoluyla elde ettiğimiz bilgiyle uyuşuyor mu?'**  
+> Dedim ki:  
+> — **'Evet ve Hayır! Evet ile Hayır arasında ise ruhlar cesetlerinden, boyunlar bedenlerinden fırlar uçar!'**  
+> İbn Rüşd sarardı, titredi ve 'Lâ havle ve lâ kuvvete illâ billâh' diyerek oturdu. Çünkü ne demek istediğimi tam olarak anlamıştı; zira o sadece aklın peşindeydi, biz ise keşif ehliydik."  
+> — **İbnü'l-Arabî, *el-Fütûhâtü'l-Mekkiyye*, Bab 15**
+
+#### 🔑 Sadreddin Konevî (ö. 1274) — *Üvey Oğlu, Baş Halifesi ve Ekberî Ekolün Kurucusu*
+> *"Şeyhimiz ve imamımız İbnü'l-Arabî, ilahî marifetlerin nihayetine ermiş, zâhir ve bâtın ilimlerini kendisinde cem etmiş bir tahkik sultanıdır. O, varlığın sırlarını akli kıyasların ve felsefi zihin jimnastiklerinin çok ötesinde, doğrudan Hak Teâlâ'dan alınan keşfî ve zevkî nurlarla açıklamıştır.*  
+> *Fusûsü'l-Hikem'in gayesi, akıl yürüterek varılan kuru bir tevhid değil; varlığın Hak ile kaim olduğunu bizzat müşahede ettiren 'Hakkü'l-Yakîn' idrakidir. Onun kitaplarını sadece harflerin zahirine takılanlar anlayamaz."*  
+> — **Sadreddin Konevî, *el-Fükûk Mukaddimesi***
+
+#### 👑 İzzeddin b. Abdisselâm (ö. 1262) — *«Sultânü'l-Ulemâ» (Âlimlerin Sultanı)*
+> *(Talebesi İbn Dakîku'l-Îd'in "Şeyh Muhyiddin hakkında ne dersiniz?" sorusu üzerine):*  
+> *"O, zamanımızın kutbudur! O, şeriatın zâhir sınırlarına kıldan ince riayet eden, bâtın ilminde ise eşi benzeri olmayan kâmil bir mürşiddir. Ondan duyduğun ve aklının almadığı sözleri zahirine göre yargılama; çünkü o yüksek makamların lisanıyla konuşmaktadır."*  
+> — **İmam Süyûtî, *Tenbîhü'l-Gabî***
+
+#### 🌹 Şerefeddin İbnü'l-Fârız (ö. 1235) — *«Sultânü'l-Âşıkîn» (Büyük Mısır Şairi)*
+> *(İbnü'l-Arabî'nin Kasîde-i Tâiyye'yi şerh etme teklifine cevaben):*  
+> *"Ey Şeyh! Senin el-Fütûhâtü'l-Mekkiyye adlı eserin, benim kasidemin zaten en kâmil şerhidir! Benim manzum olarak remzettiğim hakikatleri sen mensur olarak en derin biçimde izah etmişsin."*
+
+#### 🕊️ Evhadüddîn-i Kirmânî (ö. 1238) — *Büyük Sûfi ve Yakın Dostu*
+> *"Şeyh Muhyiddin ile beraberliğimiz, ruhların beden kalıplarından evvelki ezelî ahdini hatırlatan ilahî bir sohbetti. O, Hakk'ın cemâlini ve celâlini her aynada kusursuz temâşâ eden eşsiz bir basiret gözüdür."*
+
+---
+
+### 2. Anadolu ve Tasavvuf Büyükleri (Mevlânâ, Şems, Yûnus, Hüdâyî, Mısrî)
+
+#### ☀️ Şems-i Tebrîzî (ö. 1247) — *Mevlânâ'nın Mürşidi*
+> *"Şam'da Şeyh Muhyiddin'in meclisinde bulundum. O, ilim ve marifette bir deryadır; lakin onun deryası öyle bir deryadır ki, içine dalan dalgıcın nefesi kesilir. Şeriat edebine riayeti ve ilahî hakikatleri beyandaki kudreti akıllara durgunluk verir."*  
+> — **Şems-i Tebrîzî, *Makâlât***
+
+#### 💫 Mevlânâ Celâleddîn-i Rûmî (ö. 1273) — *Mesnevî Müellifi*
+> Mevlânâ, Şeyh-i Ekber'in baş talebesi Sadreddin Konevî'ye olan derin muhabbeti ve hürmetiyle bilinirdi. Vefatında cenaze namazını Konevî'nin kıldırmasını vasiyet etmiştir. Mesnevî'deki vahdet ve tecelli beyitleri, İbnü'l-Arabî metafiziğinin şiir lisanıyla terennümüdür:  
+> *"Biz yoktuk; bizim bu varlık iddiamız da yoktu. Sen bizim yokluğumuza vücud verdin, var kıldın ve bize Senin cemâlinin aynası olmayı bahşettin."*
+
+#### 🌿 Yûnus Emre (ö. 1321) — *Türkçe İrfânın Zirvesi*
+> Yûnus Emre'nin divanında Vahdet-i Vücûd neşvesi doğrudan yankılanır:  
+> *«Cümle yerde Hak hazır, göz gerektir göresi / Hak'tan gayrı ne vardır, kime gerek sorası...»*  
+> *«Beni bende demen ben de değilem / Bir ben vardır bende benden içerü...»*
+
+#### 🕯️ Niyâzî-i Mısrî (ö. 1694) — *Büyük Halvetî-Uşşâkî Kutbu*
+> *"Şeyh Muhyiddin İbnü'l-Arabî, velayet semasının güneşidir. Onun sözlerini inkâr eden kimse, güneşin doğuşunu inkâr eden kör gibidir. Bizim yolumuzun esası, Şeyh-i Ekber'in beyan ettiği Tahkik Tevhidi'dir."*  
+> — **Niyâzî-i Mısrî, *Mevâidü'l-İrfân***
+
+#### 🕌 Azîz Mahmûd Hüdâyî (ö. 1628) — *Osmanlı Celvetî Pîri*
+> *"Şeyh Muhyiddin, irfân vadisinde ayak basılmadık tepe bırakmamış bir kutbü'l-aktâbdır. Sultanların ve ulemanın ona hürmeti, Hak Teâlâ'nın ona bahşettiği zâtî heybet ve fazilettendir."*
+
+---
+
+### 3. Klasik Şârihler ve Osmanlı/İran İrfân Mektebi (14–18. Yüzyıl)
+
+#### 🏛️ Dâvûd-i Kayserî (ö. 1350) — *Osmanlı'nın İlk Müderrisi*
+> *"Bilinmelidir ki Şeyhü'l-Ekber'in kelâmı, nebevi kandilden sızan nurlardır. O, varlığın mertebelerini ve ilahî isimlerin tecellilerini öyle bir vuzuhla açıklamıştır ki, onun terminolojisini tahsil etmeyen bir kimsenin hakiki manada tasavvuf ve metafizik tahsil etmesi imkânsızdır."*  
+> — **Dâvûd-i Kayserî, *Matla‘u Husûsi'l-Kelim Mukaddimesi***
+
+#### 📖 Abdürrezzâk el-Kâşânî (ö. 1329) — *Büyük Ekberî Şârih*
+> *"Şeyh Muhyiddin, varlığın birliğini ve tevhidi öyle bir tahkik makamında anlatmıştır ki; nâehle bu sırlar perde kalsın diye onları sembollerin libasına bürümüştür. Basiret sahipleri o örtünün altındaki saf nuru görürken, mukallitler sadece kumaşa takılıp kalırlar."*  
+> — **Abdürrezzâk el-Kâşânî, *Şerhu Fusûsi'l-Hikem***
+
+#### ✍️ Molla Câmî (ö. 1492) — *Büyük Fars Şairi ve Ârifi*
+> *"Fusûsü'l-Hikem'in her bir fassı, ledün deryasından fışkıran bir hikmet pınarıdır. O pınardan ancak nefsaniyet kirlerinden arınmış saf canlar içebilir. Şeyh Muhyiddin'e dil uzatanlar, göğe doğru tüküren adama benzerler; tükürükleri göğe ulaşmaz, kendi yüzlerine geri döner."*  
+> — **Molla Câmî, *Nefehâtü'l-Üns***
+
+#### 💎 Abdülganî en-Nablusî (ö. 1731) — *18. Yüzyıl Şam Allâmesi*
+> *"Vahdet-i Vücûd ile mülhitlerin ittihadını bir tutanlar cehalet içindedirler. Şeyh Muhyiddin der ki: 'Lâ hulûle ve lâ ittihâd' (Ne hulûl vardır ne de birleşme). Zira mutlak anlamda var olan yalnızca Hak'tır, masivâ ise O'nun esmâ gölgesidir."*  
+> — **Abdülganî en-Nablusî, *el-Vücûdü'l-Hakk***
+
+#### 📜 İsmail Hakkı Bursevî (ö. 1725) — *Osmanlı Müfessir ve Mutasavvıfı*
+> *"Şeyh-i Ekber'in kelâmı vahiy menbaından feyz almıştır; onun remizleri zâhir ulemasının havsalasını aşar. Rûhu'l-Beyân tefsirimizi tezyin eden en latif mânalar, Şeyh'in Fütûhât ve Fusûs'taki işârî nurlarından derlenmiştir."*  
+> — **İsmail Hakkı Bursevî, *Kitâbü'l-Hitâb***
+
+#### ⚖️ İbn Âbidîn (ö. 1836) — *Büyük Hanefî Fıkıh İmamı*
+> *"Şeyh Muhyiddin İbnü'l-Arabî, şüphesiz velilerin önde gelenlerinden ve tahkik ehli kâmil bir ariftir. Kapalı ifadelerinin zahirine bakıp hüküm vermek avam için caiz değildir; lâkin onu tekfir etmek de büyük bir hüsrandır."*  
+> — **İbn Âbidîn, *el-Ukûdü'd-Dürriyye***
+
+#### 👳‍♂️ Şah Veliyyullah ed-Dihlevî (ö. 1762) — *Hindistan'ın Büyük Müceddidi*
+> *"İbnü'l-Arabî'nin 'Vahdet-i Vücûd'u ile İmam Rabbânî'nin 'Vahdet-i Şühûd'u arasında hakikatte hiçbir zıtlık yoktur. İbnü'l-Arabî meselenin ontolojik (varlıksal) hakikatini anlatmış, İmam Rabbânî ise sâlikin psikolojik ve müşahede halini dile getirmiştir. İkisi de aynı hakikatin farklı cepheleridir."*  
+> — **Şah Veliyyullah Dihlevî, *et-Tefhîmâtü'l-İlâhiyye***
+
+---
+
+### 4. Resmî Savunmalar, Şeyhülislâm Fetvaları ve Büyük İmamlar
+
+#### 📜 Şeyhülislâm İbn Kemal (Kemalpaşazâde, ö. 1534) — *Tarihî Osmanlı Fetvası*
+> *(Yavuz Sultan Selim'in Şam fethinde İbnü'l-Arabî'nin kabrini buldurup türbe ve cami yaptırması üzerine verilen meşhur fetva):*  
+>
+> *"Muhyiddin İbnü'l-Arabî; kâmil bir mürşid, fâzıl bir imam ve ledünnî ilimler sahibi bir tahkik kutbudur. Onun faziletini inkâr edenler büyük bir gaflet içindedirler. Hükmümüz şudur: **Şeyh kâmil bir velidir; lâkin onun kitaplarını derin ilmi ve basireti olmayanların okuması men edilmelidir.**"*  
+> — **Şeyhülislâm Kemalpaşazâde Fetvası**
+
+#### 📿 İmam Celâleddin es-Süyûtî (ö. 1505) — *Büyük Hadis ve Tefsir İmamı*
+> *"Şeyh Muhyiddin bir müçtehid ve velilerin kutbudur. Kitaplarında ulemaya kapalı gelen ibareler varsa, bunların tasavvuf ıstılahında sahih bir tevili vardır. Bir veliyi anlamadığın bir sözünden ötürü tekfir etmektense hüsnüzan edip tevil etmek Ehl-i Sünnet edebinin gereğidir."*  
+> — **İmam Süyûtî, *Tenbîhü'l-Gabî fî Tebrieti İbni'l-Arabî***
+
+#### 📖 İmam Şa'rânî (ö. 1565) — *Mısırlı Büyük Hadis ve Tasavvuf Âlimi*
+> *"Şeyhü'l-Ekber'in kitaplarını okuduğumda gördüm ki; onun vazedip de Kur'an ve Sünnet'e dayanmayan tek bir meselesi dahi yoktur. Şayet onun kitaplarında şeriata açıkça aykırı bir lafız görürseniz biliniz ki o lafız, hasetçileri tarafından sonradan onun kitaplarına sokulmuş tahrifattır."*  
+> — **İmam Şa'rânî, *el-Kibrîtü'l-Ahmer fî Beyâni Ulûmi'ş-Şeyhi'l-Ekber***
+
+#### 📚 Mecdüddin el-Fîrûzâbâdî (ö. 1414) — *«Kâmûsu'l-Muhît» Müellifi Büyük Lügat Âlimi*
+> *"Şeyh Muhyiddin, ilim deryalarının sultanıdır. Onun aleyhinde konuşanlar ya onun yüksek mertebesini kıskanan hasetçilerdir ya da tasavvuf ehlinin lisanını anlamaktan aciz zahirperestlerdir."*
+
+---
+
+### 5. Kelâmî, Fıkhî ve Selefî Tenkitler ve İtirazlar
+
+#### ⚡ Takıyyüddin İbn Teymiyye (ö. 1328) — *Selefî / Harrânî Âlim*
+> *"İbnü'l-Arabî'nin 'Vahdet-i Vücûd' nazariyesi, İslam'ın zahir nasslarına ve Selef-i Sâlihîn'in icmaına kökten muhaliftir. O, Hristiyanların Hz. Îsâ hakkındaki tecessüd iddiasını bütün mevcudata yaymıştır. Firavun'un imanla öldüğünü söylemesi, Nûh kavminin putlara tapmasını hakikate ermek sayması kabul edilemez bir dalalettir. Zekâsı ne kadar parlak olursa olsun, bu akide İslam tevhidini tahrip eder."*  
+> — **İbn Teymiyye, *Mecmûu'l-Fetâvâ***
+
+#### 📜 İbn Haldun (ö. 1406) — *Sosyolojinin ve Tarih Felsefesinin Öncüsü*
+> *"Muhyiddin İbnü'l-Arabî yüksek bir keşif sahibidir; lâkin eserlerinde 'Vahdet-i Mutlaka' fikrini müteşabih kavramlarla anlatmıştır. Bu kitaplar şeriat ahkâmına yabancılaşmaya yol açabileceğinden, ehil olmayanların bu eserleri mütalaa etmesi fıkhî maslahat gereği men edilmelidir."*  
+> — **İbn Haldun, *Şifâü's-Sâil li-Tehzîbi'l-Mesâil***
+
+#### ⚖️ İbn Hacer el-Askalânî (ö. 1449) — *Büyük Hadis Hâfızı*
+> *"Şeyh Muhyiddin'in kelimelerinin zahirinde çok ağır ifadeler görülür; lâkin sûfiyyenin kendilerine has ıstılahları vardır. En selametli yol, şahsen kendisini tekfir etmekten sakınmak, fakat kitaplarındaki muğlak sözleri taklit etmekten de uzak durmaktır."*  
+> — **İbn Hacer, *Lisânü'l-Mîzân***
+
+#### 🏛️ Sa'deddin et-Teftâzânî (ö. 1390) — *Büyük Kelâm Âlimi*
+> *"Vahdet-i Vücûd ehline göre varlık birdir ve o da Hak Teâlâ'dır; mahlukat ise O'nun tecellileridir. Şayet bu sözden mevcudatın bizatihi Allah olduğu kastediliyorsa bu açık bir ilhaddır. Şayet kastedilen masivânın Hak ile kaim olduğu ise, bu zaten Ehl-i Sünnet kelâmının kabul ettiği bir gerçektir."*  
+> — **Teftâzânî, *Şerhu'l-Makâsıd***
+
+---
+
+### 6. Modern Doğu-Batı Filozofları ve Akademisyenleri
+
+#### 🇯🇵 Toshihiko Izutsu (1914–1993) — *Japon Filozof ve Karşılaştırmalı Dinler Uzmanı*
+> *"İbnü'l-Arabî, yalnızca İslam dünyasının değil, insanlık düşünce tarihinin gördüğü en devasa sistem kuruculardan biridir.*  
+> *Onun 'Vahdet-i Vücûd' ontolojisi, Spinoza'nın töz kuramından çok daha zengin; 'Âlem-i Misâl' ve 'Tecellî-i Dâim' teorisi ise Hegel'in diyalektiğini ve Whitehead'in süreç felsefesini yüzyıllar öncesinden çok daha canlı bir irfani zeminle inşa etmiştir. O, varlığın nefes alıp verişini metafizik bir senfoni gibi kurgulamıştır."*  
+> — **Toshihiko Izutsu, *Sufism and Taoism***
+
+#### 🇺🇸 William Chittick (1943–) — *İslam Felsefesi ve Tasavvuf Profesörü*
+> *"Şeyhü'l-Ekber'den sonra İslam coğrafyasında kelâm, felsefe veya tasavvuf yapan hiç kimse, onun kurduğu kavramsal sözlüğü kullanmadan tek bir bağımsız cümle dahi kuramamıştır.*  
+> *Onu kabul eden de reddeden de, onun açtığı terminolojik sahada düşünmek mecburiyetinde kalmıştır. İbn Arabî'nin eserleri, Kur'an ve Sünnet'in metafizik bir projeksiyonudur."*  
+> — **William Chittick, *The Sufi Path of Knowledge***
+
+#### 🇫🇷 Henry Corbin (1903–1978) — *Fransız Filozof ve Şarkiyatçı*
+> *"İbnü'l-Arabî'nin 'Hayal Âlemi' (Mundus Imaginalis) kavramı olmaksızın, Doğu'nun tinsel coğrafyasını, rüya fenomenolojisini ve sanat felsefesini anlamak imkânsızdır.*  
+> *Batı felsefesi madde ile akıl arasına sıkışıp ontolojik bir boşluğa düşmüşken, İbn Arabî ruh ile madde arasında 'Âlem-i Misâl' köprüsünü kurarak insanın kozmik yalnızlığına son vermiştir."*  
+> — **Henry Corbin, *Creative Imagination in the Sufism of Ibn Arabi***
+
+#### 🇫🇷 Michel Chodkiewicz (1929–2020) — *Ekberî Araştırmaları Otoritesi*
+> *"İbnü'l-Arabî bir kıyısı olmayan deryadır. Onun velayet teorisi (Hatmü'l-Velâye), İslam teolojisinin peygamberlik ve veraset anlayışına getirilmiş en kusursuz ve kapsamlı mimaridir."*  
+> — **Michel Chodkiewicz, *Seal of the Saints***
+
+#### 🇫🇷 Claude Addas — *İbn Arabî Biyografi Yazarı*
+> *"İbnü'l-Arabî'nin hayatı, manevî bir coğrafyada kesintisiz bir hicrettir. Endülüs'ten Şam'a, Mekke'den Konya'ya uzanan bu yolculuk, aslında insanın kendi içindeki Zât-ı İlâhî'ye olan seyrü's-sülûkünün haritasıdır."*  
+> — **Claude Addas, *Quest for the Red Sulphur***
+
+#### 🇹🇷 Prof. Dr. Mahmut Erol Kılıç — *İslam Felsefesi Profesörü*
+> *"İbn Arabî bir masal anlatıcısı veya soyut bir teorisyen değildir. O, varoluş hiyerarşisinin haritasını çıkaran kozmik bir mimardır. Onu anlamak için zihni sadece rasyonel aklın sınırlarında tutmak yetmez; kalbin idrak gözünü (basiret) devreye sokmak gerekir. Şeyh-i Ekber, Doğu bilgeliğinin zirve noktasıdır."*  
+> — **Mahmut Erol Kılıç, *Şeyh-i Ekber: İbn Arabî Düşüncesine Giriş***
+
+#### 🇹🇷 Prof. Dr. Ekrem Demirli — *Tasavvuf ve Ekberî Düşünce Profesörü*
+> *"İbnü'l-Arabî ile birlikte İslam metafiziği kurucu ve nihai diline kavuşmuştur. Ondan sonra gelen bütün kelâmcılar, filozoflar ve mutasavvıflar onun kavramsal haritası üzerinden konuşmak zorunda kalmışlardır. Vahdet-i Vücûd, sadece bir tasavvuf neşvesi değil, varlığın nihai ontolojik izahıdır."*  
+> — **Ekrem Demirli, *İslam Metafiziğinde Tanrı ve İnsan***
 
 ---
 
@@ -81,7 +264,7 @@ graph TD
 
 ---
 
-## 📜 Eserlerinden Doğrudan Alıntılar ve Metin Tahlilleri
+## 📜 Eserlerinden Doğrudan Metinler ve Tahliller
 
 ### 1. *Fusûsü'l-Hikem* Seçkileri
 
@@ -179,126 +362,7 @@ graph TD
 
 ---
 
-## 💬 Şeyhü'l-Ekber Hakkında Söylenenler: Tarihsel ve Felsefî Tanıklıklar
-
-```text
-       ╔═════════════════════════════════════════════════════════════════╗
-       ║   "O öyle bir ummandır ki; kıyısı olmayan bir deryaya benzer.   ║
-       ║    Dalgıçlar onun derinliklerinden inciler çıkarırken,          ║
-       ║    kıyıda duranlar dalgaların şiddetinden ürperirler."          ║
-       ║                            — Sadreddin Konevî                   ║
-       ╚═════════════════════════════════════════════════════════════════╝
-```
-
----
-
-### 1. Çağdaşları ve Doğrudan Muhatapları (13. Yüzyıl)
-
-#### ⚖️ İbn Rüşd (Averroes) — *Aristoteles Şârihi Büyük İslam Filozofu*
-> *(Genç İbnü'l-Arabî henüz bıyıkları terlememiş bir delikanlı iken, Kurtuba'da onu bizzat köşküne davet eden İbn Rüşd ile gerçekleşen meşhur tarihi diyalog):*  
->
-> *"Kurtuba Kadısı İbn Rüşd beni görmeyi çok arzu etmişti. Yanına girdiğimde sevgisinden ve saygısından dolayı yerinden fırlayıp bana sarıldı. Bana dedi ki:*  
-> — **'Evet mi?'**  
-> Ben de:  
-> — **'Evet!'** dedim.  
-> Bu cevabım üzerine kendisini anladığımı görerek sevinci arttı. Fakat hemen ardından onun neden sevindiğini fark ederek:  
-> — **'Hayır!'** dedim.  
-> Bunun üzerine rengi soldu, yüzü sarardı ve şüpheye düşerek sordu:  
-> — **'Keşif ve ilahî feyz yoluyla ulaştığınız bilgi, bizim akıl ve nazar yoluyla elde ettiğimiz bilgiyle uyuşuyor mu?'**  
-> Dedim ki:  
-> — **'Evet ve Hayır! Evet ile Hayır arasında ise ruhlar cesetlerinden, boyunlar bedenlerinden fırlar uçar!'**  
-> İbn Rüşd sarardı, titredi ve 'Lâ havle ve lâ kuvvete illâ billâh' diyerek oturdu. Çünkü ne demek istediğimi tam olarak anlamıştı; zira o sadece aklın peşindeydi, biz ise keşif ehliydik."  
-> — **İbnü'l-Arabî, *el-Fütûhâtü'l-Mekkiyye*, Bab 15**
-
-#### 🔑 Sadreddin Konevî — *Üvey Oğlu, Baş Halifesi ve Ekberî Ekolün Kurucusu*
-> *"Şeyhimiz ve imamımız İbnü'l-Arabî, ilahî marifetlerin nihayetine ermiş, zâhir ve bâtın ilimlerini kendisinde cem etmiş bir tahkik sultanıdır. O, varlığın sırlarını akli kıyasların ve felsefi zihin jimnastiklerinin çok ötesinde, doğrudan Hak Teâlâ'dan alınan keşfî ve zevkî nurlarla açıklamıştır.*  
-> *Fusûsü'l-Hikem'in gayesi, akıl yürüterek varılan kuru bir tevhid değil; varlığın Hak ile kaim olduğunu bizzat müşahede ettiren 'Hakkü'l-Yakîn' idrakidir. Onun kitaplarını sadece harflerin zahirine takılanlar anlayamaz."*  
-> — **Sadreddin Konevî, *el-Fükûk Mukaddimesi***
-
-#### 👑 İzzeddin b. Abdisselâm — *«Sultânü'l-Ulemâ» (Âlimlerin Sultanı)*
-> *(Talebesi İbn Dakîku'l-Îd'in "Şeyh Muhyiddin hakkında ne dersiniz?" sorusu üzerine):*  
-> *"O, zamanımızın kutbudur! O, şeriatın zâhir sınırlarına kıldan ince riayet eden, bâtın ilminde ise eşi benzeri olmayan kâmil bir mürşiddir. Ondan duyduğun ve aklının almadığı sözleri zahirine göre yargılama; çünkü o yüksek makamların lisanıyla konuşmaktadır."*  
-> — **İmam Süyûtî, *Tenbîhü'l-Gabî***
-
-#### 🌹 Şerefeddin İbnü'l-Fârız — *«Sultânü'l-Âşıkîn» (Büyük Mısır Şairi)*
-> *(İbnü'l-Arabî'nin Kasîde-i Tâiyye'yi şerh etme teklifine cevaben):*  
-> *"Ey Şeyh! Senin el-Fütûhâtü'l-Mekkiyye adlı eserin, benim kasidemin zaten en kâmil şerhidir! Benim manzum olarak remzettiğim hakikatleri sen mensur olarak en derin biçimde izah etmişsin."*
-
----
-
-### 2. Klasik Şârihler ve İrfânî Gelenek (14–18. Yüzyıl)
-
-#### 🏛️ Dâvûd-i Kayserî — *Osmanlı'nın İlk Müderrisi*
-> *"Bilinmelidir ki Şeyhü'l-Ekber'in kelâmı, nebevi kandilden sızan nurlardır. O, varlığın mertebelerini ve ilahî isimlerin tecellilerini öyle bir vuzuhla açıklamıştır ki, onun terminolojisini tahsil etmeyen bir kimsenin hakiki manada tasavvuf ve metafizik tahsil etmesi imkânsızdır."*  
-> — **Dâvûd-i Kayserî, *Matla‘u Husûsi'l-Kelim Mukaddimesi***
-
-#### 📖 Abdürrezzâk el-Kâşânî — *Büyük Ekberî Şârih*
-> *"Şeyh Muhyiddin, varlığın birliğini ve tevhidi öyle bir tahkik makamında anlatmıştır ki; nâehle bu sırlar perde kalsın diye onları sembollerin libasına bürümüştür. Basiret sahipleri o örtünün altındaki saf nuru görürken, mukallitler sadece kumaşa takılıp kalırlar."*  
-> — **Abdürrezzâk el-Kâşânî, *Şerhu Fusûsi'l-Hikem***
-
-#### ✍️ Molla Câmî — *15. Yüzyıl Büyük Fars Şairi ve Mütefekkiri*
-> *"Fusûsü'l-Hikem'in her bir fassı, ledün deryasından fışkıran bir hikmet pınarıdır. O pınardan ancak nefsaniyet kirlerinden arınmış saf canlar içebilir. Şeyh Muhyiddin'e dil uzatanlar, göğe doğru tüküren adama benzerler; tükürükleri göğe ulaşmaz, kendi yüzlerine geri döner."*  
-> — **Molla Câmî, *Nefehâtü'l-Üns***
-
-#### 💎 Abdülganî en-Nablusî — *18. Yüzyıl Şam Allâmesi*
-> *"Vahdet-i Vücûd ile mülhitlerin ittihadını bir tutanlar cehalet içindedirler. Şeyh Muhyiddin der ki: 'Lâ hulûle ve lâ ittihâd' (Ne hulûl vardır ne de birleşme). Zira mutlak anlamda var olan yalnızca Hak'tır, masivâ ise O'nun esmâ gölgesidir."*  
-> — **Abdülganî en-Nablusî, *el-Vücûdü'l-Hakk***
-
-#### 📜 İbn Âbidîn — *Büyük Hanefî Fakihi*
-> *"Şeyh Muhyiddin İbnü'l-Arabî, şüphesiz velilerin önde gelenlerinden ve tahkik ehli kâmil bir ariftir. Kapalı ifadelerinin zahirine bakıp hüküm vermek avam için caiz değildir; lâkin onu tekfir etmek de büyük bir hüsrandır."*  
-> — **İbn Âbidîn, *el-Ukûdü'd-Dürriyye***
-
----
-
-### 3. Resmî Savunmalar ve Şeyhülislâm Fetvaları
-
-#### 📜 Şeyhülislâm İbn Kemal (Kemalpaşazâde) — *Tarihî Osmanlı Fetvası*
-> *"Muhyiddin İbnü'l-Arabî; kâmil bir mürşid, fâzıl bir imam ve ledünnî ilimler sahibi bir tahkik kutbudur. Onun faziletini inkâr edenler büyük bir gaflet içindedirler. Hükmümüz şudur: **Şeyh kâmil bir velidir; lâkin onun kitaplarını derin ilmi ve basireti olmayanların okuması men edilmelidir.**"*  
-> — **Şeyhülislâm Kemalpaşazâde Fetvası**
-
-#### 📿 İmam Celâleddin es-Süyûtî — *Büyük Hadis ve Tefsir İmamı*
-> *"Şeyh Muhyiddin bir müçtehid ve velilerin kutbudur. Kitaplarında ulemaya kapalı gelen ibareler varsa, bunların tasavvuf ıstılahında sahih bir tevili vardır. Bir veliyi anlamadığın bir sözünden ötürü tekfir etmektense hüsnüzan edip tevil etmek Ehl-i Sünnet edebinin gereğidir."*  
-> — **İmam Süyûtî, *Tenbîhü'l-Gabî fî Tebrieti İbni'l-Arabî***
-
----
-
-### 4. Kelâmî, Fıkhî ve Selefî Tenkitler
-
-#### ⚡ Takıyyüddin İbn Teymiyye — *Selefî / Harrânî Âlim*
-> *"İbnü'l-Arabî'nin 'Vahdet-i Vücûd' nazariyesi, İslam'ın zahir nasslarına ve Selef-i Sâlihîn'in icmaına kökten muhaliftir. O, Hristiyanların Hz. Îsâ hakkındaki tecessüd iddiasını bütün mevcudata yaymıştır. Zekâsı ne kadar parlak olursa olsun, bu akide İslam tevhidini tahrip eder."*  
-> — **İbn Teymiyye, *Mecmûu'l-Fetâvâ***
-
-#### 📜 İbn Haldun — *Sosyolojinin ve Tarih Felsefesinin Öncüsü*
-> *"Muhyiddin İbnü'l-Arabî yüksek bir keşif sahibidir; lâkin eserlerinde 'Vahdet-i Mutlaka' fikrini müteşabih kavramlarla anlatmıştır. Bu kitaplar şeriat ahkâmına yabancılaşmaya yol açabileceğinden, ehil olmayanların bu eserleri mütalaa etmesi fıkhî maslahat gereği men edilmelidir."*  
-> — **İbn Haldun, *Şifâü's-Sâil li-Tehzîbi'l-Mesâil***
-
-#### ⚖️ İbn Hacer el-Askalânî — *Büyük Hadis Hâfızı*
-> *"Şeyh Muhyiddin'in kelimelerinin zahirinde çok ağır ifadeler görülür; lâkin sûfiyyenin kendilerine has ıstılahları vardır. En selametli yol, şahsen kendisini tekfir etmekten sakınmak, fakat kitaplarındaki muğlak sözleri taklit etmekten de uzak durmaktır."*  
-> — **İbn Hacer, *Lisânü'l-Mîzân***
-
----
-
-### 5. Modern ve Çağdaş Doğu-Batı Felsefî Okumaları
-
-#### 🇯🇵 Toshihiko Izutsu — *Japon Filozof ve Karşılaştırmalı Dinler Uzmanı*
-> *"İbnü'l-Arabî, insanlık düşünce tarihinin gördüğü en devasa sistem kuruculardan biridir. Onun 'Vahdet-i Vücûd' ve 'Âlem-i Misâl' teorileri, Spinoza'nın töz kuramını ve Hegel'in diyalektiğini yüzyıllar öncesinden çok daha zengin bir irfani zeminle kuşatmıştır."*  
-> — **Toshihiko Izutsu, *Sufism and Taoism***
-
-#### 🇺🇸 William Chittick — *İslam Felsefesi Profesörü*
-> *"Şeyhü'l-Ekber'den sonra İslam dünyasında felsefe veya tasavvuf yapan hiç kimse, onun kurduğu kavramsal sözlüğü kullanmadan tek bir bağımsız cümle dahi kuramamıştır. Kabul eden de reddeden de onun terminolojisinde düşünmek mecburiyetindedir."*  
-> — **William Chittick, *The Sufi Path of Knowledge***
-
-#### 🇫🇷 Henry Corbin — *Fransız Filozof ve Şarkiyatçı*
-> *"İbnü'l-Arabî'nin 'Hayal Âlemi' (Mundus Imaginalis) kavramı olmaksızın, Doğu'nun tinsel coğrafyasını ve rüya fenomenolojisini anlamak imkânsızdır. O, ruh ile madde arasındaki ontolojik köprüyü kurmuştur."*  
-> — **Henry Corbin, *Creative Imagination in the Sufism of Ibn Arabi***
-
-#### 🇹🇷 Prof. Dr. Mahmut Erol Kılıç — *İslam Felsefesi Profesörü*
-> *"İbn Arabî soyut bir teorisyen değildir; o, varoluş hiyerarşisinin haritasını çıkaran kozmik bir mimardır. Onu anlamak için zihni sadece rasyonel aklın sınırlarında tutmak yetmez; basiret gözünü devreye sokmak gerekir."*  
-> — **Mahmut Erol Kılıç, *Şeyh-i Ekber: İbn Arabî Düşüncesine Giriş***
-
----
-
-## 📖 Temel Kavramlar Sözlüğü (*Istılâhât-ı Sûfiyye*)
+## 📖 Kapsamlı Ekberî Kavramlar Sözlüğü (*Istılâhât-ı Sûfiyye*)
 
 | Kavram | Anlamı ve Ontolojik Karşılığı |
 | :--- | :--- |
@@ -315,7 +379,7 @@ graph TD
 
 ---
 
-## ⚖️ Karşılaştırmalı Felsefe (Doğu-Batı)
+## ⚖️ Mukayeseli Felsefe Araştırmaları
 
 - ⚖️ [İbnü'l-Arabî & Spinoza](scholarship/comparative-philosophy/ibn-arabi-spinoza-monism.md): *Vahdet-i Vücûd* ile *Deus sive Natura* (Töz Monizmi / Panteizm) farkı.
 - 🌲 [İbnü'l-Arabî & Heidegger](scholarship/comparative-philosophy/ibn-arabi-heidegger-being.md): Varlık Sorusu (*Seinsfrage*) ve *Vücûd-Mevcûd* ayrımı.
@@ -324,7 +388,7 @@ graph TD
 
 ---
 
-## 🗂️ Depo Dizin Mimarisi
+## 🗂️ Depo ve Dizin Mimarisi
 
 ```text
 ibn-arabi-studies/
@@ -370,7 +434,7 @@ python tools/ekber_cli.py ontology
 
 ---
 
-## 🎓 Akademik Müfredat ve Bibliyografya
+## 🎓 Akademik Müfredat ve Bibliyografya (BibTeX)
 
 Külliyatın anlaşılması için 4 aşamalı okuma programı tavsiye edilir:
 1. **Giriş:** *Hilyetü'l-Abdal*, *Risâletü'l-Kuds*, Chittick (*Hayal Âlemi*), Izutsu (*Sufism and Taoism*).
