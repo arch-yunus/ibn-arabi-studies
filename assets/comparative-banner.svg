@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f1406" />
+      <stop offset="50%" stop-color="#38240b" />
+      <stop offset="100%" stop-color="#170d03" />
+    </linearGradient>
+    <linearGradient id="goldAmber" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#fde047" />
+      <stop offset="50%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#fbbf24" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="220" rx="14" fill="url(#bgGrad5)" stroke="#d97706" stroke-width="1.5"/>
+
+  <g opacity="0.15" stroke="#f59e0b" stroke-width="1.2" fill="none">
+    <polygon points="100,50 150,110 100,170 50,110" />
+    <polygon points="1100,50 1150,110 1100,170 1050,110" />
+  </g>
+
+  <text x="600" y="55" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#fcd34d" letter-spacing="4">
+    EAST-WEST COMPARATIVE PHILOSOPHY &amp; DIALOGUE
+  </text>
+
+  <text x="600" y="105" text-anchor="middle" font-family="'Cinzel', 'Georgia', serif" font-size="34" font-weight="700" fill="url(#goldAmber)" letter-spacing="3">
+    MUKAYESELİ FELSEFE: İBN ARABÎ VE DÜNYA DÜŞÜNCESİ
+  </text>
+
+  <text x="600" y="145" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="16" fill="#cbd5e1">
+    Baruch Spinoza • Martin Heidegger • C. G. Jung • Meister Eckhart • G. W. F. Hegel
+  </text>
+
+  <g transform="translate(450, 175)" stroke="#f59e0b" stroke-width="1" opacity="0.7">
+    <line x1="0" y1="0" x2="120" y2="0" />
+    <circle cx="150" cy="0" r="4" fill="#fbbf24" />
+    <line x1="180" y1="0" x2="300" y2="0" />
+  </g>
+</svg>

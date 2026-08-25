@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#081b33" />
+      <stop offset="50%" stop-color="#0f2b48" />
+      <stop offset="100%" stop-color="#061324" />
+    </linearGradient>
+    <linearGradient id="cyanGold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f6d365" />
+      <stop offset="100%" stop-color="#38bdf8" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="220" rx="14" fill="url(#bgGrad4)" stroke="#0284c7" stroke-width="1.5"/>
+
+  <g opacity="0.15" stroke="#38bdf8" stroke-width="1.2" fill="none">
+    <circle cx="600" cy="110" r="95" stroke-dasharray="5,5"/>
+    <circle cx="600" cy="110" r="70"/>
+    <circle cx="600" cy="110" r="45"/>
+  </g>
+
+  <text x="600" y="55" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#38bdf8" letter-spacing="4">
+    AKBARIAN METAPHYSICS &amp; COSMIC HIERARCHY
+  </text>
+
+  <text x="600" y="105" text-anchor="middle" font-family="'Cinzel', 'Georgia', serif" font-size="34" font-weight="700" fill="url(#cyanGold)" letter-spacing="3">
+    MERÂTİBÜ'L-VÜCÛD &amp; HAZARÂT-I HAMS HARİTASI
+  </text>
+
+  <text x="600" y="145" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="16" fill="#cbd5e1">
+    Lâ-Taayyün (Ahadiyyet) ➔ Vâhidiyyet ➔ Ceberût ➔ Misâl (Berzah) ➔ Mülk ➔ İnsan-ı Kâmil
+  </text>
+
+  <g transform="translate(450, 175)" stroke="#0ea5e9" stroke-width="1" opacity="0.7">
+    <line x1="0" y1="0" x2="120" y2="0" />
+    <circle cx="150" cy="0" r="4" fill="#38bdf8" />
+    <line x1="180" y1="0" x2="300" y2="0" />
+  </g>
+</svg>

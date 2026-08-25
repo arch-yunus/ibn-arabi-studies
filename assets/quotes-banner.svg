@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#140f2b" />
+      <stop offset="50%" stop-color="#241442" />
+      <stop offset="100%" stop-color="#0f0a21" />
+    </linearGradient>
+    <linearGradient id="purpleGold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f6d365" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="220" rx="14" fill="url(#bgGrad2)" stroke="#6b21a8" stroke-width="1.5"/>
+
+  <g opacity="0.15" stroke="#c084fc" stroke-width="1" fill="none">
+    <circle cx="100" cy="110" r="80" stroke-dasharray="4,4"/>
+    <circle cx="1100" cy="110" r="80" stroke-dasharray="4,4"/>
+  </g>
+
+  <text x="600" y="55" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#c084fc" letter-spacing="4">
+    HISTORICAL TESTIMONIES &amp; SCHOLARLY DISCOURSE
+  </text>
+
+  <text x="600" y="105" text-anchor="middle" font-family="'Cinzel', 'Georgia', serif" font-size="34" font-weight="700" fill="url(#purpleGold)" letter-spacing="3">
+    ŞEYHÜ'L-EKBER HAKKINDA TARİHÎ TANIKLIKLAR
+  </text>
+
+  <text x="600" y="145" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="16" fill="#cbd5e1">
+    Çağdaşları • Klasik Şârihler • Kelâmî Tenkitler • Şeyhülislâm Fetvaları • Modern Filozoflar
+  </text>
+
+  <g transform="translate(450, 175)" stroke="#a855f7" stroke-width="1" opacity="0.7">
+    <line x1="0" y1="0" x2="120" y2="0" />
+    <circle cx="150" cy="0" r="4" fill="#c084fc" />
+    <line x1="180" y1="0" x2="300" y2="0" />
+  </g>
+</svg>
