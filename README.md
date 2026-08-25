@@ -22,18 +22,18 @@
 ## 📑 Kapsamlı İçindekiler
 1. [🏛️ Külliyatın Vizyonu ve Mahiyeti](#-külliyatın-vizyonu-ve-mahiyeti)
 2. [💬 Şeyhü'l-Ekber Hakkında Söylenenler: Büyük Tarihsel ve Felsefî Tanıklıklar Hazinesi](#-şeyhül-ekber-hakkında-söylenenler-büyük-tarihsel-ve-felsefî-tanıklıklar-hazinesi)
-   - [1. Çağdaşları & Doğrudan Muhatapları (13. Yüzyıl)](#1-çağdaşları-ve-doğrudan-muhatapları-13-yüzyıl)
-   - [2. Anadolu & Tasavvuf Büyükleri (Mevlânâ, Şems, Yûnus, Hüdâyî, Mısrî)](#2-anadolu-ve-tasavvuf-büyükleri-mevlânâ-şems-yûnus-hüdâyî-mısrî)
-   - [3. Klasik Şârihler & Osmanlı/İran İrfân Mektebi (14–18. Yüzyıl)](#3-klasik-şârihler-ve-osmanlıiran-irfân-mektebi-1418-yüzyıl)
-   - [4. Resmî Savunmalar, Şeyhülislâm Fetvaları ve Büyük İmamlar](#4-resmî-savunmalar-şeyhülislâm-fetvaları-ve-büyük-imamlar)
-   - [5. Kelâmî, Fıkhî ve Selefî Tenkitler & İtirazlar](#5-kelâmî-fıkhî-ve-selefî-tenkitler-ve-itirazlar)
-   - [6. Modern Doğu-Batı Filozofları ve Akademisyenleri](#6-modern-doğu-batı-filozofları-ve-akademisyenleri)
-3. [🧭 Ekberî Ontoloji Haritası & Merâtibü'l-Vücûd](#-ekberî-ontoloji-haritası--merâtibül-vücûd)
-4. [📜 Eserlerinden Doğrudan Metinler ve Tahliller](#-eserlerinden-doğrudan-metinler-ve-tahliller)
-   - [*Fusûsü'l-Hikem* Seçkileri](#1-fusûsül-hikem-seçkileri)
-   - [*el-Fütûhâtü'l-Mekkiyye* Seçkileri](#2-el-fütûhâtül-mekkiyye-seçkileri)
-   - [*Tercümânü'l-Eşvâk* ve Şerhi](#3-tercümânül-eşvâk-ve-şerhi)
-   - [*Risâletü'l-Vücûd & Kitâbü'l-İsfâr*](#4-risâletül-vücûd--kitâbül-isfâr)
+   - [1. Çağdaşları & Doğrudan Muhatapları (İbn Rüşd, Konevî, İzzeddin b. Abdisselâm, İbnü'l-Fârız, Kirmânî)](#1-çağdaşları-ve-doğrudan-muhatapları-13-yüzyıl)
+   - [2. Anadolu ve Tasavvuf Büyükleri (Mevlânâ, Şems, Yûnus, Hüdâyî, Mısrî)](#2-anadolu-ve-tasavvuf-büyükleri-mevlânâ-şems-yûnus-hüdâyî-mısrî)
+   - [3. Klasik Şârihler ve İrfân Mektebi (Kayserî, Kâşânî, Câmî, Nablusî, Bursevî, Dihlevî, İbn Âbidîn)](#3-klasik-şârihler-ve-osmanlıiran-irfân-mektebi-1418-yüzyıl)
+   - [4. Resmî Savunmalar ve Şeyhülislâm Fetvaları (İbn Kemal, Süyûtî, Şa'rânî, Fîrûzâbâdî)](#4-resmî-savunmalar-şeyhülislâm-fetvaları-ve-büyük-imamlar)
+   - [5. Kelâmî, Fıkhî ve Selefî Tenkitler (İbn Teymiyye, İbn Haldun, İbn Hacer, Teftâzânî)](#5-kelâmî-fıkhî-ve-selefî-tenkitler-ve-itirazlar)
+   - [6. Modern Doğu-Batı Filozofları (Izutsu, Chittick, Corbin, Chodkiewicz, Addas, Kılıç, Demirli)](#6-modern-doğu-batı-filozofları-ve-akademisyenleri)
+3. [📜 Şeyhü'l-Ekber'in Kendi Eserlerinden Genişletilmiş Metin ve Alıntılar Hazinesi](#-şeyhül-ekberin-kendi-eserlerinden-genişletilmiş-metin-ve-alıntılar-hazinesi)
+   - [*Fusûsü'l-Hikem* Seçkileri ve Fass Fass Hikmet Sırları](#1-fusûsül-hikem-seçkileri-ve-hikmet-sırları)
+   - [*el-Fütûhâtü'l-Mekkiyye* Tematik Şaheser Alıntıları](#2-el-fütûhâtül-mekkiyye-tematik-şaheser-alıntıları)
+   - [*Tercümânü'l-Eşvâk* ve Şerhi *Zehâirü'l-A'lâk*](#3-tercümânül-eşvâk-ve-zehâirül-alâk-aşk-ve-sembolizm)
+   - [Küçük Risaleler (*Risâletü'l-Vücûd*, *İsfâr*, *Şecere*, *İnşâ*, *Hilye*, *Mevâkı'*)](#4-küçük-risaleler-er-resâilüs-suğrâ)
+4. [🧭 Ekberî Ontoloji Haritası & Merâtibü'l-Vücûd](#-ekberî-ontoloji-haritası--merâtibül-vücûd)
 5. [🧩 Fusûsü'l-Hikem: 27 Peygamber ve Hikmet Matrisi](#-fusûsül-hikem-27-peygamber-ve-hikmet-matrisi)
 6. [📖 Kapsamlı Ekberî Kavramlar Sözlüğü (*Istılâhât-ı Sûfiyye*)](#-kapsamlı-ekberî-kavramlar-sözlüğü-ıstılâhât-ı-sûfiyye)
 7. [⚖️ Mukayeseli Felsefe Araştırmaları (Spinoza, Heidegger, Jung, Eckhart)](#-mukayeseli-felsefe-araştırmaları)
@@ -234,6 +234,120 @@
 
 ---
 
+## 📜 Şeyhü'l-Ekber'in Kendi Eserlerinden Genişletilmiş Metin ve Alıntılar Hazinesi
+
+### 1. *Fusûsü'l-Hikem* Seçkileri ve Hikmet Sırları
+
+#### 🪞 Fass I: Âdem Kelimesindeki İlahi Hikmet (*Fass-ı Hikmet-i İlâhiyye*)
+> *"Hakk Teâlâ, güzel isimlerinin (el-Esmâü'l-Hüsnâ) hükümlerini bütünüyle göreceği kuşatıcı bir varlık içinde Zât'ını müşahede etmeyi diledi. Zira bir şeyin kendisini bizzat kendi nefsiyle görmesi ile, o şeyi kendisine ayna olan başka bir surette görmesi aynı şey değildir... Âlem, içinde ruh bulunmayan cilalanmamış bir ayna gibi yaratılmıştı. Âdem'in yaratılmasıyla o ayna cilalandı. Âdem, o aynanın cilası ve o suretin ruhu oldu."*  
+> — *Fusûsü'l-Hikem, Fasl I* • [Metin Analizi](texts/fusus-al-hikam/01-fass-adem-hikmet-i-ilahiyye.md)
+
+#### 🌊 Fass III: Nûh Kelimesindeki Tenzihî Hikmet (*Fass-ı Hikmet-i Sübbûhiyye*)
+> *"Bil ki tenzih ehli, Hakk'ı sınırlandırmış ve mukayyet kılmıştır. Çünkü sırf tenzih yapan kimse Hakk'ı mahlukattan tecrit ederken O'nu bir yöne hapseder. Teşbih ehli de O'nu sınırlandırmıştır. Hakiki arif ise hem tenzih hem teşbihi cem eder: 'O'nun benzeri hiçbir şey yoktur (Tenzih) ve O her şeyi işiten ve görendir (Teşbih).' (Şûrâ, 42/11)"*  
+> — *Fusûsü'l-Hikem, Fasl III* • [Metin Analizi](texts/fusus-al-hikam/03-fass-nuh-hikmet-i-subbuhiyye.md)
+
+#### 🏔️ Fass VI: İsmâil Kelimesindeki Yücelik Hikmeti (*Fass-ı Hikmet-i Aliyye*)
+> *"Bil ki 'Rabb' isminin senden talep ettiği şey ile senin O'ndan talep ettiğin şey birbirine bağlıdır. Rab, kulun kulluğu (ubûdiyyeti) ile zâhir olur; kul ise Rabbin rubûbiyyeti ile kâimdir. Eğer O olmasaydı biz var olamazdık; eğer biz olmasaydık O'nun isimlerinin tecellisi zâhir olmazdı."*  
+> — *Fusûsü'l-Hikem, Fasl VI* • [Metin Analizi](texts/fusus-al-hikam/07-fass-ismail-hikmet-i-aliyye.md)
+
+#### 🌙 Fass IX: Yûsuf Kelimesindeki Nûrânî Hikmet (*Fass-ı Hikmet-i Nûriyye*)
+> *"Hz. Peygamber (s.a.v.) buyurdu: 'İnsanlar uykudadırlar, öldükleri zaman uyanırlar.' İşte bu dünya hayatı baştan başa bir uykudur; içinde görülen şeyler rüyadır. Hz. Yûsuf rüyada on bir yıldız, güneş ve ayın kendisine secde ettiğini gördüğünde, bu suretler Âlem-i Misâl'deki mânanın sembolleriydi. Yıllar sonra tahta oturduğunda 'İşte bu, evvelki rüyamın tevilidir' dedi. Oysa tahta oturması da rüya içinde rüyadır; mutlak uyanış ancak berzahtan sonra gerçekleşir."*  
+> — *Fusûsü'l-Hikem, Fasl IX* • [Metin Analizi](texts/fusus-al-hikam/09-fass-yusuf-hikmet-i-nuriyye.md)
+
+#### ❤️ Fass XII: Şuayb Kelimesindeki Kalbî Hikmet (*Fass-ı Hikmet-i Kalbiyye*)
+> *"Kalp, Hakk'ın tecellilerinin genişliğine göre genişler ve daralır; çünkü tecellide tekrar yoktur (**Lâ tekrâra fi't-tecellî**). Arif kişinin kalbi belli bir inancın ve itikadın düğümüne hapsolmaz. Hakk hangi surette tecelli ederse O'nu o surette tanır. Mukayyed inanç sahipleri ise Hakk'ı yalnızca kendi zihinlerindeki putta/kalıpta kabul eder, gayrısında inkâr ederler."*  
+> — *Fusûsü'l-Hikem, Fasl XII* • [Metin Analizi](texts/fusus-al-hikam/12-fass-suayb-hikmet-i-kalbiyye.md)
+
+#### 🕊️ Fass XV: Îsâ Kelimesindeki Nebevî Hikmet (*Fass-ı Hikmet-i Nebeviyye*)
+> *"Hz. Îsâ'nın zuhuru, Cebrail'in Hz. Meryem'e üflediği nefes ile gerçekleşti. Bu yüzden onda diriltme (*ihyâ*) sıfatı baskındır. Cebrail'in nefesi, Rahmân'ın kâinata varlık veren nefesinin (*Nefes-i Rahmânî*) cüz'î bir mazharı idi. Îsâ (a.s.), Hakk'ın kelimesi ve ruhudur."*  
+> — *Fusûsü'l-Hikem, Fasl XV* • [Metin Analizi](texts/fusus-al-hikam/15-fass-isa-hikmet-i-nebeviyye.md)
+
+#### 👑 Fass XXVII: Muhammed Kelimesindeki Ferdiyyet Hikmeti (*Fass-ı Hikmet-i Ferdiyye*)
+> *"Hz. Muhammed'in (s.a.v.) hikmeti 'Ferdiyyet'tir (Teklik ve Benzersizliktir); çünkü o, bu insan türünün en kâmil mazharı ve varlığın ilk taayyünüdür. Hadis-i şerifte buyuruldu: 'Bana dünyanızdan üç şey sevdirildi: Kadın, güzel koku ve gözümün nuru kılınan namaz.' Kadın mazharında Hakk'ı müşahede etmek, en kâmil müşahededir; çünkü Hakk'ı hem fâil hem kâbil olarak temaşa etmeyi sağlar."*  
+> — *Fusûsü'l-Hikem, Fasl XXVII* • [Metin Analizi](texts/fusus-al-hikam/27-fass-muhammed-hikmet-i-ferdiyye.md)
+
+---
+
+### 2. *el-Fütûhâtü'l-Mekkiyye* Tematik Şaheser Alıntıları
+
+#### 🕊️ Bab 1: Marifet-i Rûh ve Kâbe'deki Ruhanî Genç (*el-Fetâ*)
+> *"Mekke'de Harem-i Şerif'te Kâbe'yi tavaf ederken Hacerü'l-Esved'in karşısında nûrânî bir genç (*el-Fetâ*) ile karşılaştım. O hem konuşan hem susan, hem cisim hem ruhtu. Ona sordum: 'Sen kimsin?' Dedi ki: 'Ben konuşan Kâbe'yim; varlığın sırrıyım.' İşte Fütûhât'ta yazılanlar, o gencin bana remzettiği hakikatlerin açılımıdır."*  
+> — *el-Fütûhâtü'l-Mekkiyye, Bab 1* • [İncele](texts/futuhat-al-makkiyya/bab-001-marifet-i-ruh.md)
+
+#### 🌌 Bab 63: Varlığın Aslı ve Hayal Mertebesi
+> *"Ey talip! Bil ki sen bir hayalsin; algıladığın ve 'benim dışımda var' dediğin her şey de hayal içinde hayaldir. Hakiki ve mutlak varlık yalnızca Hakk Teâlâ'dır. Kesret (çokluk), vahdet denizinin yüzeyindeki kabarcıklar ve dalgalar gibidir. Suretlere takılıp kalan dalgayı müstakil sanır; tahkik ehli ise denizin tekliğini müşahede eder."*  
+> — *el-Fütûhâtü'l-Mekkiyye, Bab 63* • [İncele](texts/futuhat-al-makkiyya/bab-063-alem-i-hayal-ve-kesret.md)
+
+#### 🌬️ Bab 198: İlahî Nefes ve Kozmik Harfler (*Nefes-i Rahmânî*)
+> *"Eşya, Rahmân'ın nefesinde açığa çıkan harfler gibidir. İnsan nefes verirken harflerin ağız mahreçlerinde belirmesi gibi; Hakîm olan Yaratıcı da 'Kün' (Ol) emrinin nefesiyle mümkinatın harflerini Âlem levhasına nakşetmiştir. Bütün kâinat, Hakk'ın telaffuz ettiği bitimsiz bir kelimeler manzumesidir."*  
+> — *el-Fütûhâtü'l-Mekkiyye, Bab 198* • [İncele](texts/futuhat-al-makkiyya/bab-198-nefes-i-rahmani-ve-huruf.md)
+
+#### ❤️ Bab 178: İlahî, Ruhânî ve Tabiî Aşkın Hakikati (*Bâbü'l-Muhabbe*)
+> *"Aşk, varlığın mayası ve yaratılışın yegâne sebebidir. Bil ki Allah Teâlâ mahlukatı ancak muhabbetle yarattı; nitekim kudsî hadiste buyuruldu: 'Gizli bir hazine idim, bilinmeyi sevdim (ahbebtü) ve mahlukatı yarattım.' Seven kişi maşukunda fâni olmadıkça aşkın hakikatine eremez. Aşk öyle bir ateştir ki, sevgiliden gayrı ne varsa hepsini yakıp kül eder; geriye yalnızca Maşuk kalır."*  
+> — *el-Fütûhâtü'l-Mekkiyye, Bab 178*
+
+#### ⏳ Bab 390: Zaman ve Anın Hakikati (*Ân-ı Dâim*)
+> *"Zaman, seninle tecelli arasındaki nisbetten ibarettir. Ne geçmiş vardır ne gelecek; gerçekte olan yalnızca 'Ân-ı Dâim'dir (Sürekli Şimdiki Zaman). Her nefeste bir yaratılış, her anda yeni bir tecelli zuhur eder; lakin gaflet ehli bunu kesintisiz bir süreklilik zanneder."*  
+> — *el-Fütûhâtü'l-Mekkiyye, Bab 390* • [İncele](texts/futuhat-al-makkiyya/bab-390-zaman-ve-an-i-daim.md)
+
+#### 📜 Bab 558: Sâliklere Vasiyetler ve Ahlâkî Nasihatler
+> *"Sana vasiyetim şudur: Hiçbir varlığı hakir görme; çünkü Hakk Teâlâ hiçbir şeyi bâtıl ve abes yaratmamıştır. Sana kötülük edene ihsan ile muamele et. Şeriatın zâhir sınırlarına kıldan ince riayet et; zira zâhir şeriatı korumayanın bâtın hakikati zındıklıktır."*  
+> — *el-Fütûhâtü'l-Mekkiyye, Bab 558* • [İncele](texts/futuhat-al-makkiyya/bab-558-vasiyetler-ve-nasihatler.md)
+
+---
+
+### 3. *Tercümânü'l-Eşvâk* ve *Zehâirü'l-A'lâk* (Aşk ve Sembolizm)
+
+#### 🌹 11. Kaside: Kalbin Evrenselliği ve Din-i Aşk
+```text
+لقد صارَ قلبي قابلاً كلَّ صورةٍ
+فَمَرْعىً لِغِزْلانٍ ودَيْرٌ لرُهْبانِ
+وبَيْتٌ لأوْثانٍ وكَعْبَةُ طائفٍ
+وألْواحُ تَوْراةٍ ومُصْحَفُ قُرْآنِ
+أدِينُ بدِينِ الحُبِّ أنّى تَوَجَّهَتْ
+رَكائِبُهُ فالحُبُّ دِيني وإيماني
+```
+
+> *"Kalbim her sûreti kabul eder bir hâle geldi;  
+> Ceylanların otlağı, keşişlerin manastırı,  
+> Putların tapınağı, hacıların Kâbe'si,  
+> Tevrat'ın levhaları ve Kur'ân'ın mushafı...  
+> Ben aşk dinine tâbiyim; aşkın kervanı hangi yöne yönelirse yönelsin,  
+> İşte benim dinim ve imanım odur."*  
+>  
+> *(Şeyh'in Kendi Şerhi - Zehâirü'l-A'lâk'tan):*  
+> *"Bu beyitlerde geçen 'ceylan', ilahi sırların peşinde koşan letaiftir; 'manastır', ruhani makamların tecrit halidir; 'putlar', esmâ tecellilerinin mazharlarıdır. Kalb-i arif, hiçbir tecelli suretinden mahrum kalmayacak kadar genişlemiştir."*  
+> — [Ayrıntılı Şiir & Zehâirü'l-A'lâk Tahlili](texts/tarjuman-al-ashwaq/kaside-11-kalbin-evrenselligi-ve-sehri.md)
+
+---
+
+### 4. Küçük Risaleler (*er-Resâilü's-Suğrâ*)
+
+#### 🌿 *Risâletü'l-Vücûd* (Kitâbü'l-Elif): Varlık Risalesi
+> *"Bil ki Allah Teâlâ ile birlikte hiçbir şey yoktur. Ne O'nun içinde bir şey vardır ne de O'nun dışında. O şimdi de ezelde olduğu gibidir. Sen ne O'sun ne de O'ndan başkasısın. Eğer kendini bilirsen, nefsinin bağımsız bir varlığı olmadığını, varlığın yalnızca Hakk'ın Vücûdu olduğunu anlarsın."*  
+> — *Risâletü'l-Vücûd* • [İncele](texts/minor-treatises/risaletu-l-vucud.md)
+
+#### 🚶‍♂️ *Kitâbü'l-İsfâr an Netâici'l-Esfâr*: Yolculukların Neticeleri
+> *"Varlıkta üç büyük sefer vardır:  
+> 1. **Hakk'a Sefer:** Kesret karanlığından, günahlardan ve cehaletten sıyrılarak Tevhid ve Vahdet nuruna hicret.  
+> 2. **Hakk'ta Sefer:** İsimler, sıfatlar ve ilâhî kemâlât deryasında sonsuz müşahede hali.  
+> 3. **Hakk'tan Halka Sefer:** Cem makamından sonra fark makamına inerek halkı Hakk ile irşad etme, peygamberlerin ve vârislerin yolculuğu."*  
+> — *Kitâbü'l-İsfâr* • [İncele](texts/minor-treatises/kitabu-l-isfor-an-netaic-il-esfar.md)
+
+#### 🌳 *Şeceretü'l-Kevn*: Kozmik Varlık Ağacı
+> *"Kâinat devasa bir ağaç gibidir: Kökü 'Kün' emri ve Hakîkat-i Muhammediyye tohumu; gövdesi ve dalları felekler ve melekût âlemleri; meyvesi ise İnsan-ı Kâmil'dir. Ağacın dikilme gayesi meyvedir; kâinatın yaratılış gayesi İnsandır."*  
+> — *Şeceretü'l-Kevn* • [İncele](texts/minor-treatises/seceretu-l-kevn.md)
+
+#### ⭕ *İnşâü'd-Devâir*: Dairelerin İnşası
+> *"Varlık üç ana daireye ayrılır: 1. Mutlak Vücûd (Hakk Teâlâ), 2. Mutlak Adem (Yokluk), 3. Mümkin Vücûd (Âlem). İnsan ise bütün bu dairelerin kesiştiği merkez noktasıdır."*  
+> — *İnşâü'd-Devâir* • [İncele](texts/minor-treatises/insau-d-devair.md)
+
+#### ✨ *Hilyetü'l-Abdâl*: Manevî Sülûkün Dört Direği
+> *"Sülûkün dört esası vardır: 1. **Sükût:** Dili lüzumsuz sözden, kalbi masivâdan korumak; 2. **Uzlet:** Kalben halktan tecrit olup Hakk'a yönelmek; 3. **Cû‘:** Az yemekle nefsin kesafetini kırmak; 4. **Seher:** Geceleri teheccüd ve murakabe ile ihya etmek."*  
+> — *Hilyetü'l-Abdâl* • [İncele](texts/minor-treatises/huliyyetu-l-abdal.md)
+
+---
+
 ## 🧭 Ekberî Ontoloji Haritası & Merâtibü'l-Vücûd
 
 Ekberî düşünce, varlığın birliği (*Vahdet-i Vücûd*) ve bu tek hakikatin farklı tecelli mertebelerinde (*Merâtibü'l-Vücûd*) zuhur etmesi temeline dayanır:
@@ -261,70 +375,6 @@ graph TD
 ```
 
 > 📌 *Dairelerin İnşası (*İnşâü'd-Devâir*) ve Nefes-i Rahmânî şemaları için [docs/ontology-maps.md](docs/ontology-maps.md) dosyasına bakabilirsiniz.*
-
----
-
-## 📜 Eserlerinden Doğrudan Metinler ve Tahliller
-
-### 1. *Fusûsü'l-Hikem* Seçkileri
-
-#### 🪞 Âdem Kelimesindeki İlahi Hikmet (*Fass-ı Hikmet-i İlâhiyye*)
-> *"Hakk, isimlerinin ve sıfatlarının tecellilerini bütünüyle göreceği kuşatıcı bir varlık dilediğinde âlemi yarattı. Fakat âlem, içinde ruh bulunmayan cilalanmamış bir ayna gibiydi. Âdem'in var edilmesiyle o ayna cilalandı; Âdem, o aynanın cilası ve o suretin ruhu oldu."*  
-> — *Fusûsü'l-Hikem, Fasl I* • [Metin Analizi](texts/fusus-al-hikam/01-fass-adem-hikmet-i-ilahiyye.md)
-
-#### 🌊 Nûh Kelimesindeki Tenzihî Hikmet (*Fass-ı Hikmet-i Sübbûhiyye*)
-> *"Bil ki tenzih ehli, Hakk'ı sınırlandırmış ve mukayyet kılmıştır. Teşbih ehli de O'nu sınırlandırmıştır. Hakiki arif ise hem tenzih hem teşbihi cem eder: 'O'nun benzeri hiçbir şey yoktur (Tenzih) ve O her şeyi işiten ve görendir (Teşbih).' (Şûrâ, 42/11)"*  
-> — *Fusûsü'l-Hikem, Fasl III* • [Metin Analizi](texts/fusus-al-hikam/03-fass-nuh-hikmet-i-subbuhiyye.md)
-
-#### 🏔️ İsmâil Kelimesindeki Yücelik Hikmeti (*Fass-ı Hikmet-i Aliyye*)
-> *"Rab, kulun kulluğu (ubûdiyyeti) ile zâhir olur; kul ise Rabbin rubûbiyyeti ile kâimdir. Eğer O olmasaydı biz var olamazdık; eğer biz olmasaydık O'nun isimlerinin tecellisi zâhir olmazdı."*  
-> — *Fusûsü'l-Hikem, Fasl VI* • [Metin Analizi](texts/fusus-al-hikam/07-fass-ismail-hikmet-i-aliyye.md)
-
-#### 🌙 Yûsuf Kelimesindeki Nûrânî Hikmet (*Fass-ı Hikmet-i Nûriyye*)
-> *"Hz. Peygamber buyurdu: 'İnsanlar uykudadırlar, öldükleri zaman uyanırlar.' İşte bu dünya hayatı baştan başa bir uykudur; içinde görülen şeyler rüyadır. Suretlerin asıl mânaya bağlanması tevil ilmidir."*  
-> — *Fusûsü'l-Hikem, Fasl IX* • [Metin Analizi](texts/fusus-al-hikam/09-fass-yusuf-hikmet-i-nuriyye.md)
-
-#### ❤️ Şuayb Kelimesindeki Kalbî Hikmet (*Fass-ı Hikmet-i Kalbiyye*)
-> *"Kalp, Hakk'ın tecellilerinin genişliğine göre genişler ve daralır; çünkü tecellide tekrar yoktur (**Lâ tekrâra fi't-tecellî**). Arif kişinin kalbi tek bir inancın kalıbına hapsolmaz. Hakk hangi surette tecelli ederse O'nu o surette tanır."*  
-> — *Fusûsü'l-Hikem, Fasl XII* • [Metin Analizi](texts/fusus-al-hikam/12-fass-suayb-hikmet-i-kalbiyye.md)
-
-#### 🕊️ Îsâ Kelimesindeki Nebevî Hikmet (*Fass-ı Hikmet-i Nebeviyye*)
-> *"Hz. Îsâ'nın zuhuru, Cebrail'in Hz. Meryem'e üflediği nefes ile gerçekleşti. Bu nefes, Rahmân'ın kâinata varlık veren nefesinin (Nefes-i Rahmânî) cüz'î bir mazharıdır. Onda diriltme (ihyâ) sırrı baskındır."*  
-> — *Fusûsü'l-Hikem, Fasl XV* • [Metin Analizi](texts/fusus-al-hikam/15-fass-isa-hikmet-i-nebeviyye.md)
-
-#### 👑 Muhammed Kelimesindeki Ferdiyyet Hikmeti (*Fass-ı Hikmet-i Ferdiyye*)
-> *"Hz. Muhammed'in hikmeti Ferdiyyet'tir; çünkü o varlığın ilk taayyünü ve insan türünün en kâmil mazharıdır. 'Bana dünyanızdan üç şey sevdirildi: Kadın, güzel koku ve namaz.' Kadın mazharında Hakk'ı müşahede etmek, O'nu hem fâil hem kâbil olarak temaşadır."*  
-> — *Fusûsü'l-Hikem, Fasl XXVII* • [Metin Analizi](texts/fusus-al-hikam/27-fass-muhammed-hikmet-i-ferdiyye.md)
-
----
-
-### 2. *el-Fütûhâtü'l-Mekkiyye* Seçkileri
-
-- 🕊️ **Bab 1:** [Marifet-i Rûh ve Kâbe'deki Ruhanî Karşılaşma](texts/futuhat-al-makkiyya/bab-001-marifet-i-ruh.md) — *«Ben konuşan Kâbe'yim; varlığın sırrıyım.»*
-- 🌌 **Bab 63:** [Âlem-i Hayâl ve Kesretin Gölge Tabiatı](texts/futuhat-al-makkiyya/bab-063-alem-i-hayal-ve-kesret.md) — *«Sen bir hayalsin; senin dışında var sandığın her şey de hayal içinde hayaldir.»*
-- 🌬️ **Bab 198:** [Nefes-i Rahmânî ve Harflerin Kozmik Mahreçleri](texts/futuhat-al-makkiyya/bab-198-nefes-i-rahmani-ve-huruf.md) — *«Kâinat, Hakk'ın telaffuz ettiği bitimsiz bir kelimeler manzumesidir.»*
-- ⏳ **Bab 390:** [Zamanın Hakikati ve Ân-ı Dâim](texts/futuhat-al-makkiyya/bab-390-zaman-ve-an-i-daim.md) — *«Zaman, tecelli ile arandaki nisbettir. Gerçekte olan yalnızca Ân-ı Dâim'dir.»*
-- 📜 **Bab 558:** [Sâliklere Vasiyetler ve Şeriatın Korunması](texts/futuhat-al-makkiyya/bab-558-vasiyetler-ve-nasihatler.md) — *«Zâhir şeriatı korumayanın bâtın hakikati zındıklıktır.»*
-
----
-
-### 3. *Tercümânü'l-Eşvâk* ve Şerhi
-
-> *«Kalbim her sûreti kabul eder bir hâle geldi;  
-> Ceylanların otlağı, keşişlerin manastırı,  
-> Putların tapınağı, hacıların Kâbe'si,  
-> Tevrat'ın levhaları ve Kur'ân'ın mushafı...  
-> Ben aşk dinine tâbiyim; aşkın kervanı nereye yönelirse,  
-> İşte benim dinim ve imanım odur.»*  
-> — [11. Kaside Metni ve Zehâirü'l-A'lâk Şerhi](texts/tarjuman-al-ashwaq/kaside-11-kalbin-evrenselligi-ve-sehri.md)
-
----
-
-### 4. *Risâletü'l-Vücûd & Kitâbü'l-İsfâr*
-
-- 🌿 [Risâletü'l-Vücûd](texts/minor-treatises/risaletu-l-vucud.md): *«Sen ne O'sun ne de O'ndan gayrısın. Varlık ancak Hakk'ın Vücûdudur.»*
-- 🚶‍♂️ [Kitâbü'l-İsfâr](texts/minor-treatises/kitabu-l-isfor-an-netaic-il-esfar.md): Üç Büyük Sefer (*Hakk'a Sefer, Hakk'ta Sefer, Hakk'tan Halka Sefer*).
-- 🌳 [Şeceretü'l-Kevn](texts/minor-treatises/seceretu-l-kevn.md) • ⭕ [İnşâü'd-Devâir](texts/minor-treatises/insau-d-devair.md) • ✨ [Hilyetü'l-Abdâl](texts/minor-treatises/huliyyetu-l-abdal.md).
 
 ---
 
@@ -373,6 +423,10 @@ graph TD
 | **Âlem-i Misâl (Berzah)** | Ruhaniyet ile cismaniyet arasında köprü kuran, mânanın şekil aldığı ontolojik ara boyut. |
 | **Hazarât-ı Hams** | Varlığın iniş ve çıkış sürecini tarif eden 'Beş İlahi Mertebe' (Zât, Sıfat, Melekût, Mülk, İnsan). |
 | **Tecellî-i Dâim** | Tecellinin kesintisizliği; yaratılışın her an yeniden gerçekleşmesi (*Külli yevmin hüve fî şe'n*). |
+| **Lâ Tekrâra fi't-Tecellî** | Tecellide asla tekrar yoktur; Hakk hiçbir kula aynı surette iki kez görünmez. |
+| **Hakîkat-i Muhammediyye** | Varlığın ilk taayyünü, Nûr-ı Muhammedî; kâinatın yaratılış çekirdeği ve ilk aklı. |
+| **Feyz-i Akdes** | Zât'ın kendi zâtına tecellisiyle a‘yân-ı sâbitenin ve ezelî istidatların ilâhî ilimde belirlenmesi. |
+| **Feyz-i Mukaddes** | A‘yân-ı sâbitenin istidatlarına göre haricî vücûd kazanarak dış dünyada zuhûra gelmesi. |
 | **Hakkü'l-Yakîn** | Varlık ikiliğinin tamamen ortadan kalktığı, tevhîdin bizzat zevk ve tecrübe ile bilindiği son makam. |
 
 > 📌 *150+ kavramlık detaylı sözlük için [docs/terminology-glossary.md](docs/terminology-glossary.md) dosyasına bakabilirsiniz.*
