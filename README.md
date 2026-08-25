@@ -388,6 +388,10 @@ graph TD
 
 ---
 
+<div align="center">
+  <img src="assets/prophets-banner.jpg" alt="27 Peygamber ve Hikmet Yüzükleri Banner" width="100%" />
+</div>
+
 ## 🧩 Fusûsü'l-Hikem: 27 Peygamber ve Hikmet Matrisi
 
 | # | Peygamber / Fass | Temsil Ettiği Hikmet | Temel Teolojik / Ontolojik Mesele | Doküman |
@@ -421,6 +425,10 @@ graph TD
 | 27 | **Hz. Muhammed (s.a.v.)** | Hikmet-i Ferdiyye | Varlığın gayesi, üç şeyin sevdirilmesi ve Hatm-i Nübüvvet | [Metin & Şerh](texts/fusus-al-hikam/27-fass-muhammed-hikmet-i-ferdiyye.md) |
 
 ---
+
+<div align="center">
+  <img src="assets/terminology-banner.jpg" alt="Ekberî Kavramlar ve Istılâhât Banner" width="100%" />
+</div>
 
 ## 📖 Kapsamlı Ekberî Kavramlar Sözlüğü (*Istılâhât-ı Sûfiyye*)
 
@@ -505,6 +513,10 @@ python tools/ekber_cli.py ontology
 ```
 
 ---
+
+<div align="center">
+  <img src="assets/curriculum-banner.jpg" alt="Akademik Müfredat ve Beytül-Hikme Banner" width="100%" />
+</div>
 
 ## 🎓 Akademik Müfredat ve Bibliyografya (BibTeX)
 
