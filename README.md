@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero-banner.svg" alt="ibn-arabi-studies Hero Banner" width="100%" />
+<img src="assets/hero-banner.jpg" alt="ibn-arabi-studies Hero Banner" width="100%" />
 
 <br/><br/>
 
@@ -53,7 +53,7 @@
 ---
 
 <div align="center">
-  <img src="assets/quotes-banner.svg" alt="Tarihsel ve Felsefi Tanıklıklar Banner" width="100%" />
+  <img src="assets/quotes-banner.jpg" alt="Tarihsel ve Felsefi Tanıklıklar Banner" width="100%" />
 </div>
 
 ## 💬 Şeyhü'l-Ekber Hakkında Söylenenler: Büyük Tarihsel ve Felsefî Tanıklıklar Hazinesi
@@ -237,7 +237,7 @@
 ---
 
 <div align="center">
-  <img src="assets/works-banner.svg" alt="Eserler ve Şaheserler Banner" width="100%" />
+  <img src="assets/works-banner.jpg" alt="Eserler ve Şaheserler Banner" width="100%" />
 </div>
 
 ## 📜 Şeyhü'l-Ekber'in Eserlerinden Genişletilmiş Metin ve Alıntılar
@@ -355,7 +355,7 @@
 ---
 
 <div align="center">
-  <img src="assets/ontology-banner.svg" alt="Ontoloji Haritası Banner" width="100%" />
+  <img src="assets/ontology-banner.jpg" alt="Ontoloji Haritası Banner" width="100%" />
 </div>
 
 ## 🧭 Ekberî Ontoloji Haritası & Merâtibü'l-Vücûd
@@ -444,7 +444,7 @@ graph TD
 ---
 
 <div align="center">
-  <img src="assets/comparative-banner.svg" alt="Mukayeseli Felsefe Banner" width="100%" />
+  <img src="assets/comparative-banner.jpg" alt="Mukayeseli Felsefe Banner" width="100%" />
 </div>
 
 ## ⚖️ Mukayeseli Felsefe Araştırmaları
