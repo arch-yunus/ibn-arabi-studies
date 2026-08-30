@@ -18,10 +18,13 @@
 
 ---
 
-## 📄 Seçki Metinleri
+## 📄 Hazırlanmış ve İncelenmiş Seçki Metinleri
 
-- [bab-001-marifet-i-ruh.md](bab-001-marifet-i-ruh.md)
-- [bab-063-alem-i-hayal-ve-kesret.md](bab-063-alem-i-hayal-ve-kesret.md)
-- [bab-198-nefes-i-rahmani-ve-huruf.md](bab-198-nefes-i-rahmani-ve-huruf.md)
-- [bab-390-zaman-ve-an-i-daim.md](bab-390-zaman-ve-an-i-daim.md)
-- [bab-558-vasiyetler-ve-nasihatler.md](bab-558-vasiyetler-ve-nasihatler.md)
+- 🕊️ [bab-001-marifet-i-ruh.md](bab-001-marifet-i-ruh.md): *Marifet-i Rûh ve Kâbe'deki Ruhanî Genç (el-Fetâ)*
+- 🌌 [bab-063-alem-i-hayal-ve-kesret.md](bab-063-alem-i-hayal-ve-kesret.md): *Âlem-i Hayâl ve Kesretin Gölge Tabiatı*
+- 👑 [bab-073-velayet-meratibi-ve-ricalul-gayb.md](bab-073-velayet-meratibi-ve-ricalul-gayb.md): *Velâyet Mertebeleri, Ricâlü'l-Gayb ve Hatmü'l-Velâye*
+- 🌹 [bab-178-babu-l-muhabbe.md](bab-178-babu-l-muhabbe.md): *Bâbü'l-Muhabbe: Aşkın Varlık İlleti ve Mertebeleri*
+- 🌬️ [bab-198-nefes-i-rahmani-ve-huruf.md](bab-198-nefes-i-rahmani-ve-huruf.md): *Nefes-i Rahmânî ve Harflerin Kozmik Mahreçleri*
+- ⏳ [bab-390-zaman-ve-an-i-daim.md](bab-390-zaman-ve-an-i-daim.md): *Zamanın Hakikati ve Bölünmeyen Ân-ı Dâim*
+- 📜 [bab-558-vasiyetler-ve-nasihatler.md](bab-558-vasiyetler-ve-nasihatler.md): *Sâliklere Ahlâkî Vasiyetler ve Şeriatın Korunması*
+- 🌌 [bab-559-marifetullah-ve-esma.md](bab-559-marifetullah-ve-esma.md): *Marifetullah ve Esmâü'l-Hüsnâ'nın Aynalık Görevi*

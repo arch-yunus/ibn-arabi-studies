@@ -30,6 +30,7 @@
    - [5. Kelâmî, Fıkhî ve Selefî Tenkitler (İbn Teymiyye, İbn Haldun, İbn Hacer, Teftâzânî)](#5-kelâmî-fıkhî-ve-selefî-tenkitler-ve-itirazlar)
    - [6. Modern Doğu-Batı Filozofları (Izutsu, Chittick, Corbin, Chodkiewicz, Addas, Kılıç, Demirli)](#6-modern-doğu-batı-filozofları-ve-akademisyenleri)
 4. [📜 Şeyhü'l-Ekber'in Eserlerinden Genişletilmiş Metin ve Alıntılar](#-şeyhül-ekberin-eserlerinden-genişletilmiş-metin-ve-alıntılar)
+   - [🌟 *Cevâhir-i Ekberiyye*: Tematik Orijinal Alıntılar ve Vecizeler (9 Eksen)](#0-cevâhir-i-ekberiyye-tematik-orijinal-alıntılar-ve-vecizeler)
    - [*Fusûsü'l-Hikem* Seçkileri ve Fass Fass Hikmet Sırları](#1-fusûsül-hikem-seçkileri-ve-hikmet-sırları)
    - [*el-Fütûhâtü'l-Mekkiyye* Tematik Şaheser Alıntıları](#2-el-fütûhâtül-mekkiyye-tematik-şaheser-alıntıları)
    - [*Tercümânü'l-Eşvâk* ve Şerhi *Zehâirü'l-A'lâk*](#3-tercümânül-eşvâk-ve-zehâirül-alâk-aşk-ve-sembolizm)
@@ -225,19 +226,28 @@
 
 ## 📜 Şeyhü'l-Ekber'in Eserlerinden Genişletilmiş Metin ve Alıntılar
 
+### 0. 🌟 *Cevâhir-i Ekberiyye*: Tematik Orijinal Alıntılar ve Vecizeler
+> 📖 **Kapsamlı Alıntılar Külliyatı:** [texts/hikmetler-ve-vecizeler.md](texts/hikmetler-ve-vecizeler.md)  
+> *Şeyh-i Ekber'in başyapıtlarından orijinal harekeli Arapça metinler, Türkçe tercümeler ve hermenötik izahlar: Vahdet-i Vücûd, Dînü'l-Hubb (Aşk Dini), İnsan-ı Kâmil, Lâ Tekrâr İlkesi, Âlem-i Misâl, Marifetullah, Şeriat-Hakikat Dengesi, Ân-ı Dâim ve İtikadî Düğümler.*
+
+---
+
 ### 1. *Fusûsü'l-Hikem* Seçkileri ve Hikmet Sırları
 
-- 🪞 **Fass I (Hz. Âdem / Hikmet-i İlâhiyye):** [Âlemin Cilalanmamış Aynası ve Hilafet](texts/fusus-al-hikam/01-fass-adem-hikmet-i-ilahiyye.md)
+- 🪞 **Fass I (Hz. Âdem / Hikmet-i İlâhiyye):** [Âlemin Cilalanmamış Aynası ve Hilafet Sırrı](texts/fusus-al-hikam/01-fass-adem-hikmet-i-ilahiyye.md)
 - 🌿 **Fass II (Hz. Şît / Hikmet-i Nefsiyye):** [Atâ-yı Zâtî, Atâ-yı Esmâî ve Ruh-Nefis Dengesi](texts/fusus-al-hikam/02-fass-sit-hikmet-i-nefsiyye.md)
 - 🌊 **Fass III (Hz. Nûh / Hikmet-i Sübbûhiyye):** [Tenzih ve Teşbihin Tevhitte Cemi](texts/fusus-al-hikam/03-fass-nuh-hikmet-i-subbuhiyye.md)
 - ☀️ **Fass IV (Hz. İdrîs / Hikmet-i Kuddûsiyye):** [Mekân ve Mertebe Yüceliği, Güneş Feleği](texts/fusus-al-hikam/04-fass-idris-hikmet-i-kuddusiyye.md)
 - 🔥 **Fass V (Hz. İbrâhîm / Hikmet-i Müheymiyye):** [Aşkın Varlığa Sirayeti ve Kozmik Misafirperverlik](texts/fusus-al-hikam/05-fass-ibrahim-hikmet-i-muheymiyye.md)
+- 🐏 **Fass VI (Hz. İshâk / Hikmet-i Hakkiyye):** [Rüyaların Tâbiri, Koç Fidyeli Kurban Sırrı](texts/fusus-al-hikam/06-fass-ishak-hikmet-i-hakkiyye.md)
 - 🏔️ **Fass VII (Hz. İsmâil / Hikmet-i Aliyye):** [Rubûbiyyet ve Ubûdiyyet Karşılıklılığı](texts/fusus-al-hikam/07-fass-ismail-hikmet-i-aliyye.md)
 - 🌙 **Fass IX (Hz. Yûsuf / Hikmet-i Nûriyye):** [Âlem-i Misâl, Rüya Ontolojisi ve Tevil Sırrı](texts/fusus-al-hikam/09-fass-yusuf-hikmet-i-nuriyye.md)
 - 🏹 **Fass X (Hz. Hûd / Hikmet-i Ahadiyye):** [Kozmik Sırât-ı Müstakîm ve Perçem Sırrı](texts/fusus-al-hikam/10-fass-hud-hikmet-i-ahadiyye.md)
 - ❤️ **Fass XII (Hz. Şuayb / Hikmet-i Kalbiyye):** [Kalbin Değişkenliği ve Tecellide Tekrar Olmaması (*Lâ Tekrâr*)](texts/fusus-al-hikam/12-fass-suayb-hikmet-i-kalbiyye.md)
 - 🕊️ **Fass XV (Hz. Îsâ / Hikmet-i Nebeviyye):** [Nefes-i Rahmânî ve Diriltme (İhyâ) Kelimesi](texts/fusus-al-hikam/15-fass-isa-hikmet-i-nebeviyye.md)
 - 💍 **Fass XVI (Hz. Süleymân / Hikmet-i Rahmâniyye):** [Rahmaniyet/Rahimiyet ve Anlık Yaratılış (*Halk-ı Cedîd*)](texts/fusus-al-hikam/16-fass-suleyman-hikmet-i-rahmaniyye.md)
+- 🛡️ **Fass XVII (Hz. Dâvûd / Hikmet-i Vücûdiyye):** [Demirin Yumuşatılması, Hilafet ve Adalet Hükmü](texts/fusus-al-hikam/17-fass-davud-hikmet-i-vucudiyye.md)
+- 🐂 **Fass XXIV (Hz. Hârûn / Hikmet-i İmâmiyye):** [Suretteki Tecelli, İmâmet ve Rahmetin Hilmi](texts/fusus-al-hikam/24-fass-harun-hikmet-i-imamiyye.md)
 - ⚡ **Fass XXV (Hz. Mûsâ / Hikmet-i Ulviyye):** [Firavun'un İmanı, Tûr-ı Sînâ ve Tecellî-i Zât](texts/fusus-al-hikam/25-fass-musa-hikmet-i-ulviyye.md)
 - 👑 **Fass XXVII (Hz. Muhammed s.a.v. / Hikmet-i Ferdiyye):** [Varlığın İlk Taayyünü, Kadın/Koku/Namaz Sırrı](texts/fusus-al-hikam/27-fass-muhammed-hikmet-i-ferdiyye.md)
 
@@ -247,6 +257,7 @@
 
 - 🕊️ **Bab 1:** [Marifet-i Rûh ve Kâbe'deki Ruhanî Genç (*el-Fetâ*)](texts/futuhat-al-makkiyya/bab-001-marifet-i-ruh.md)
 - 🌌 **Bab 63:** [Âlem-i Hayâl ve Kesretin Gölge Tabiatı](texts/futuhat-al-makkiyya/bab-063-alem-i-hayal-ve-kesret.md)
+- 👑 **Bab 73:** [Velâyet Mertebeleri, Ricâlü'l-Gayb ve Hatmü'l-Velâye](texts/futuhat-al-makkiyya/bab-073-velayet-meratibi-ve-ricalul-gayb.md)
 - 🌹 **Bab 178:** [Bâbü'l-Muhabbe: İlahî, Ruhânî ve Tabiî Aşkın Hakikati](texts/futuhat-al-makkiyya/bab-178-babu-l-muhabbe.md)
 - 🌬️ **Bab 198:** [Nefes-i Rahmânî ve Harflerin Kozmik Mahreçleri](texts/futuhat-al-makkiyya/bab-198-nefes-i-rahmani-ve-huruf.md)
 - ⏳ **Bab 390:** [Zamanın Hakikati ve Ân-ı Dâim](texts/futuhat-al-makkiyya/bab-390-zaman-ve-an-i-daim.md)
@@ -360,7 +371,7 @@ graph TD
 | 3 | **Hz. Nûh** | Hikmet-i Sübbûhiyye | Tenzih ve teşbih dengesi; tevhîdin kuşatıcılığı | [03-fass-nuh](texts/fusus-al-hikam/03-fass-nuh-hikmet-i-subbuhiyye.md) |
 | 4 | **Hz. İdrîs** | Hikmet-i Kuddûsiyye | Yücelik (*Ulüvv*) mertebesi, Güneş Feleği ve Hermes irfânı | [04-fass-idris](texts/fusus-al-hikam/04-fass-idris-hikmet-i-kuddusiyye.md) |
 | 5 | **Hz. İbrâhîm** | Hikmet-i Müheymiyye | Aşkta fena hali, tehallül ve ilahi dostluk (*Hullet*) | [05-fass-ibrahim](texts/fusus-al-hikam/05-fass-ibrahim-hikmet-i-muheymiyye.md) |
-| 6 | **Hz. İshâk** | Hikmet-i Hakkiyye | Rüyaların tabiri, kurban sırrı ve koçun tevili | [Fusûs Dizini](texts/fusus-al-hikam/README.md) |
+| 6 | **Hz. İshâk** | Hikmet-i Hakkiyye | Rüyaların tabiri, kurban sırrı ve koçun tevili | [06-fass-ishak](texts/fusus-al-hikam/06-fass-ishak-hikmet-i-hakkiyye.md) |
 | 7 | **Hz. İsmâil** | Hikmet-i Aliyye | Rıza makamı ve rubûbiyyet-ubûdiyyet karşılıklılığı | [07-fass-ismail](texts/fusus-al-hikam/07-fass-ismail-hikmet-i-aliyye.md) |
 | 8 | **Hz. Yâkûb** | Hikmet-i Rûhiyyet | Dinî teslimiyet, sabr-ı cemîl ve kalbî istikamet | [Fusûs Dizini](texts/fusus-al-hikam/README.md) |
 | 9 | **Hz. Yûsuf** | Hikmet-i Nûriyye | Âlem-i Misâl, rüya ontolojisi ve aktif imajinasyon | [09-fass-yusuf](texts/fusus-al-hikam/09-fass-yusuf-hikmet-i-nuriyye.md) |
@@ -371,14 +382,14 @@ graph TD
 | 14 | **Hz. Üzeyr** | Hikmet-i Kadriyye | Kader sırrı, diriliş ve a‘yân-ı sâbite istidatları | [Fusûs Dizini](texts/fusus-al-hikam/README.md) |
 | 15 | **Hz. Îsâ** | Hikmet-i Nebeviyye | Nefes-i Rahmânî ile dirilme ve kelime-ruh sırrı | [15-fass-isa](texts/fusus-al-hikam/15-fass-isa-hikmet-i-nebeviyye.md) |
 | 16 | **Hz. Süleymân** | Hikmet-i Rahmâniyye | Rahmaniyet ve Rahimiyet; Belkıs'ın tahtı ve *Halk-ı Cedîd* | [16-fass-suleyman](texts/fusus-al-hikam/16-fass-suleyman-hikmet-i-rahmaniyye.md) |
-| 17 | **Hz. Dâvûd** | Hikmet-i Vücûdiyye | Hilafet, demirin yumuşatılması ve adaletle hüküm | [Fusûs Dizini](texts/fusus-al-hikam/README.md) |
+| 17 | **Hz. Dâvûd** | Hikmet-i Vücûdiyye | Hilafet, demirin yumuşatılması ve adaletle hüküm | [17-fass-davud](texts/fusus-al-hikam/17-fass-davud-hikmet-i-vucudiyye.md) |
 | 18 | **Hz. Yûnus** | Hikmet-i Nefesiyye | Tabiatın karanlığı ve balığın karnındaki tesbih | [Fusûs Dizini](texts/fusus-al-hikam/README.md) |
 | 19 | **Hz. Eyyûb** | Hikmet-i Gaybiyye | Bela, sabır, teslimiyet ve su ile arınmanın şifası | [Fusûs Dizini](texts/fusus-al-hikam/README.md) |
 | 20 | **Hz. Yahyâ** | Hikmet-i Celâliyye | İlahi isimlerin celali, tenzih ve bekâ hali | [Fusûs Dizini](texts/fusus-al-hikam/README.md) |
 | 21 | **Hz. Zekeriyyâ** | Hikmet-i Mâlikiyye | İhtiyarlıkta gelen rahmet ve yokluktan varlık bağışı | [Fusûs Dizini](texts/fusus-al-hikam/README.md) |
 | 22 | **Hz. İlyâs** | Hikmet-i İnsiyye | Tabiat ile akıl, semavîlik ile arzîlik dengesi | [Fusûs Dizini](texts/fusus-al-hikam/README.md) |
 | 23 | **Hz. Lokmân** | Hikmet-i İhsâniyye | Şirkten arınma, hikmetin derinliği ve basiret | [Fusûs Dizini](texts/fusus-al-hikam/README.md) |
-| 24 | **Hz. Hârûn** | Hikmet-i İmâmiyye | Surete tapınma uyarısı, şefkat ve rahmetin önceliği | [Fusûs Dizini](texts/fusus-al-hikam/README.md) |
+| 24 | **Hz. Hârûn** | Hikmet-i İmâmiyye | Surete tapınma uyarısı, şefkat ve rahmetin önceliği | [24-fass-harun](texts/fusus-al-hikam/24-fass-harun-hikmet-i-imamiyye.md) |
 | 25 | **Hz. Mûsâ** | Hikmet-i Ulviyye | Firavun ile münazara, asâ mucizesi ve Tecellî-i Zât | [25-fass-musa](texts/fusus-al-hikam/25-fass-musa-hikmet-i-ulviyye.md) |
 | 26 | **Hz. Hâlid b. Sinân** | Hikmet-i Samediyye | Berzah âleminin haberleri ve fetret devri irfânı | [Fusûs Dizini](texts/fusus-al-hikam/README.md) |
 | 27 | **Hz. Muhammed (s.a.v.)** | Hikmet-i Ferdiyye | Varlığın gayesi, üç şeyin sevdirilmesi ve Hatm-i Nübüvvet | [27-fass-muhammed](texts/fusus-al-hikam/27-fass-muhammed-hikmet-i-ferdiyye.md) |
@@ -453,18 +464,27 @@ ibn-arabi-studies/
 
 ---
 
-## 💻 İnteraktif CLI Araştırma Aracı (`tools/ekber_cli.py`)
+## 💻 İnteraktif CLI Araştırma ve Alıntı Aracı (`tools/ekber_cli.py`)
 
-Külliyatı terminal üzerinden hızlıca sorgulamak ve incelemek için Python CLI aracı geliştirilmiştir:
+Külliyatı terminal üzerinden hızlıca sorgulamak, özgün alıntıları okumak ve incelemek için Python CLI aracı v3.0 geliştirilmiştir:
 
 ```bash
-# 1. Kavram Sözlüğünde Arama Yap:
-python tools/ekber_cli.py search nefes
+# 1. Özgün Arapça & Türkçe Alıntıları ve Hikmetleri Getir (ask, varlik, kalp, tecelli, seriat...):
+python tools/ekber_cli.py quote ask
 
-# 2. Fusûs 27 Peygamber Listesini Filtrele:
-python tools/ekber_cli.py fusus musa
+# 2. Rastgele Bir Günlük Ekberî Hikmet Vecizesi Göster:
+python tools/ekber_cli.py random-quote
 
-# 3. Ontoloji Şemasını Terminalde Gör:
+# 3. 40+ Kavramlık Genişletilmiş Sözlükte Arama Yap:
+python tools/ekber_cli.py search velayet
+
+# 4. Fusûs 27 Peygamber ve Hikmet Listesini Filtrele:
+python tools/ekber_cli.py fusus harun
+
+# 5. el-Fütûhâtü'l-Mekkiyye Meşhur Bablarını Listele:
+python tools/ekber_cli.py futuhat
+
+# 6. Beş İlâhî Hazret Ontoloji Şemasını Terminalde Gör:
 python tools/ekber_cli.py ontology
 ```
 
